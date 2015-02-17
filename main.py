@@ -9,20 +9,6 @@ import os
 # Get the first 20 hits for "Mariposa botnet" in Google Spain
 
 
-if not os.path.exists("data/cache"):
-    os.makedirs("data/cache")
-
-if not os.path.exists("data/raw"):
-    os.makedirs("data/raw")
-
-if not os.path.exists("data/header"):
-    os.makedirs("data/header")
-
-if not os.path.exists("data/clean"):
-    os.makedirs("data/clean")
-
-
-
 books = open("data/item/book.txt", "r")
 bookList = []
 for book in books:
