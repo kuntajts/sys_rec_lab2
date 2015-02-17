@@ -1,0 +1,9 @@
+Date: Tue, 17 Feb 2015 14:58:54 GMT
+Server: Apache
+Set-Cookie: srvtkn=201c4w1o247v6949_201c4w1o4d724b70; Path=/; HttpOnly
+Set-Cookie: JSESSIONID=72A140EEBF8A1E8A97EC02FFAB65DFB3.prod-sun-1-engine; Path=/; HttpOnly
+Content-Language: de-DE
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=utf-8
+

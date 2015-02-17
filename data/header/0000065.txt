@@ -1,0 +1,20 @@
+Expires: Wed, 31 Dec 1969 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-FRAME-OPTIONS: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Date: Tue, 17 Feb 2015 15:04:27 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: JSESSIONID=10qp9suueuniu1wrmqq2c1mmwdpnjflite121424185467186;Path=/;Expires=Tue, 17-Feb-2015 16:04:27 GMT
+Set-Cookie: pds%5Flife=d=AQDgvxjRI2yGxVwUkUrSruUREHHU0nX%2FWvkd3KuJ8nKNlLo0pk6WZGdSD61YpG5NO9U%3D&v=5;Path=/;Domain=.barnesandnoble.com;Expires=Sun, 16-Feb-2020 15:04:27 GMT
+Set-Cookie: BNCAB=A;Path=/;Domain=.barnesandnoble.com
+Set-Cookie: userid=PA1fjXJWoh;Path=/;Domain=.barnesandnoble.com;Expires=Sun, 16-Feb-2020 15:04:27 GMT
+Set-Cookie: pds%5Fsess=d=AQC6azOziepyHQTvLreTagzkWIHv0%2BiuYudfaQy8lxtxKk%2F%2BymO%2FpZFjkUCvyVcJJo0%3D&v=5;Path=/;Domain=.barnesandnoble.com
+Set-Cookie: bnMobile=type=&state=ignore&device=N;path=/;domain=.barnesandnoble.com;
+Set-Cookie: SSLB=0;path=/;domain=.barnesandnoble.com;
+Set-Cookie: TS019fd21a=016b4a666e5882dfb283c3a62b0405835b30baebce0fe31782cf29b87f044009a7ae892ef074a1c0a07e72dd10bfff8d4d7b751ed4; Path=/
+Set-Cookie: TS01a610f6=016b4a666eee151c91f8dabf00a6c56a02324870cdf84f06089749d96c21301b0c3f35efd9dbe3fc76e02ab15e37e149212a15128512f26a37dafdd7490740195278089163943f140522814d704fd50435b7f2ce425f4ddc8ac2084778b02274f9563fcf14e5cb40736a9dc17c1190a0fd1b55ed821e267683f4ad5edcc46d59f13ccf7b7b; path=/; domain=.barnesandnoble.com
+

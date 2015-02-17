@@ -1,0 +1,12 @@
+Date: Tue, 17 Feb 2015 13:12:37 GMT
+Server: Apache
+Last-Modified: Wed, 03 Jul 2013 16:36:24 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 42436161 38320885
+Age: 6653
+Via: 1.1 varnish-v4
+X-Varnish-Cache: HITS=(4); 
+Content-Length: 10627
+Connection: close
+Accept-Ranges: bytes
+

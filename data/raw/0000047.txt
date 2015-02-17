@@ -1,0 +1,631 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"  >
+    <head>    	
+        <title>Book Details : The Lion, the Witch and the Wardrobe (picture book edition)</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="World Archipelago" />
+<meta name="distribution" content="global" />
+<meta http-equiv="Content-Language" content="en-GB" />
+<meta name="viewport" content="width=device-width, user-scalable=0" />
+<meta name="keywords" content="Book Details" />
+<meta name="description" content="" />
+        
+        <link href="/css/theme/id/29054" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/view/id/29054" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css?" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://www.narnia.com/css/screen.css" media="screen" rel="stylesheet" type="text/css" />
+        <script type="text/javascript">
+    //<![CDATA[
+(function() {var _fbq = window._fbq || (window._fbq = []);if (!_fbq.loaded) {var fbds = document.createElement('script');fbds.async = true;fbds.src = '//connect.facebook.net/en_US/fbds.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(fbds, s);_fbq.loaded = true;}_fbq.push(['addPixelId', '1501655890120335']);})();window._fbq = window._fbq || [];window._fbq.push(['track', 'PixelInitialized', {}]);    //]]>
+</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.narnia.com/js/script.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="//www.narnia.com/js/cms/fancybox.js"></script>
+
+    </head>
+<body>
+<h1 class="seoText">Book Details</h1> <div id="fb-root"></div>
+
+<div id="h32057container" class="headerWrapper" style="width:100%;border::::;/*position:relative;*/background:url(http://assetlibrary.supadu.com/images/working2/p0/65750.jpg) repeat-x scroll center top transparent;background-color:transparent;background-color:transparent;background:url(http://assetlibrary.supadu.com/images/working2/p0/65750.jpg) repeat-x scroll center top transparent;margin-top:0px;margin-bottom:0px;">
+
+<div style="overflow:visible;background:url(http://assetlibrary.supadu.com/images/working2/p0/65750.jpg) repeat-x scroll center top transparent;width:976px;" class="clientheaderHolder">
+<div id="canvash32057" class="canvas" style='position:relative; width:100%px;'>
+
+
+<div class="snippet type-image" id="snippet729370" >
+    <a   class='snippetImageLink' ><img class='snippetImage' src='/images/working2/s729370/2.png' alt="The Chronicles of Narnia" /></a>
+</div>
+<div class="snippet type-image" id="snippet729422" >
+    <a href="https://www.facebook.com/TheChroniclesofNarnia " target="_blank" class='snippetImageLink' ><img class='snippetImage' src='/images/working2/p0/26044.png' alt="facebook" /></a>
+</div>
+<div class="snippet type-image" id="snippet729423" >
+    <a href="https://twitter.com/officialnarnia" target="_blank" class='snippetImageLink' ><img class='snippetImage' src='/images/working2/p0/26045.png' alt="twitter" /></a>
+</div>
+<div class="snippet type-image" id="snippet729424" >
+    <a href="http://pinterest.com/officialnarnia/pins/ " target="_blank" class='snippetImageLink' ><img class='snippetImage' src='/images/working2/p0/26046.png' alt="pinterest" /></a>
+</div>
+<div class="snippet type-image" id="snippet729425" >
+    <a href="https://plus.google.com/u/0/115145947911238285675/about" target="_blank" class='snippetImageLink' ><img class='snippetImage' src='/images/working2/p0/26047.png' alt="google +" /></a>
+</div>
+<div class="snippet type-image" id="snippet729426" >
+    <a href="http://thechroniclesofnarniaofficial.tumblr.com/" target="_blank" class='snippetImageLink' ><img class='snippetImage' src='/images/working2/p0/26048.png' alt="tumblr" /></a>
+</div>
+<div class="snippet type-text" id="snippet740430" >
+    <p class="follow-text" style="text-align: center;">
+FOLLOW<br>
+NARNIA</p>
+</div>
+<div class="snippet type-text" id="snippet740536" >
+    <ul id="main-nav">
+<li id="home">
+<span style="font-size:18px;"><a href="/us" title="Home">HOME</a></span></li>
+<li id="books">
+<span style="font-size:18px;"><a href="/us/books" title="Books">BOOKS</a></span></li>
+<li>
+<span style="font-size:18px;"><a href="/us/narnia-social-media" style="background-color: transparent; " title="Narnia Social">NARNIA SOCIAL</a></span></li>
+<li id="narnia-news-extras">
+<span style="font-size:18px;"><a href="/us/news-extras/narnia-news" title="Narnia News &amp; Extras">NARNIA NEWS &amp; EXTRAS</a></span></li>
+<li id="cs-lewis">
+<span style="font-size:18px;"><a href="http://www.cslewis.com/" target="_blank" title="C.S. Lewis">Visit CSLewis.com</a></span></li>
+</ul>
+</div>
+<div class="snippet type-apps" id="snippet768388" >
+    
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script type="text/javascript" src="//www.narnia.com/js/cms/fancybox.js"></script><script type="text/javascript" src="/js/script.js"></script><script>function listener(event){	if (event.origin !== "https://store.digitalriver.com" ) { 		return;	} else {	  $.fancybox.close();	}} if (window.addEventListener){  addEventListener("message", listener, false)} else {  attachEvent("onmessage", listener)}</script><p class="help-cart-header">	<a href="https://store.digitalriver.com/store/harperco/en_US/DisplayHelpPage/ThemeID.36273000?externalstyleid=https%3A%2F%2Fassets.supadu.com%2Fcss%2Fharper-collins%2Fnarnia%2Fdigitalriver_cart.css" id="view-help">My Account</a> | 	<a href="https://store.digitalriver.com/store?Action=DisplayPage&id=QuickBuyCartPage&Locale=en_US&SiteID=harperco&themeid=36273000&externalstyleid=https%3A%2F%2Fassets.supadu.com%2Fcss%2Fharper-collins%2Fnarnia%2Fdigitalriver_cart.css" id="view-cart">View Cart</a></p>
+
+</div></div>
+</div>
+</div>
+
+
+<div id="container" style='margin:0 auto; width:976px'>
+<div id="canvas1" class="canvas" style='position:relative; width:976px;'>
+
+
+<div class="snippet type-apps" id="snippet751003" >
+    <script type="text/javascript" src="/jslibrary/jcarousel"></script>
+
+<script>
+function listener(event){
+  if ( event.origin !== "https://store.digitalriver.com" )
+    return
+
+	$.fancybox.close();
+}
+
+if (window.addEventListener){
+  addEventListener("message", listener, false)
+} else {
+  attachEvent("onmessage", listener)
+}
+</script>
+
+<div id="product-page">
+	<a class="back" href="javascript:void(history.go(-1))" title="Back"><span>&larr;</span> Back</a>
+	<h3>HARDCOVER<span>Browse The Chronicles of Narnia books by C. S. Lewis</span></h3>
+
+	<h1>The Lion, the Witch and the Wardrobe (picture book edition)</h1>
+	<h2 class="author">By  C. S. Lewis; Illustrated by Tudor Humphries	</h2>
+	
+	<div class="col-wrapper">
+		<div class="left-col">
+			<div class="image-wrapper">
+				<img src="//services.supadu.com/php/IMAGES/HARPERCOLLINS_US_Narnia_Products_Extra/68---Medium_image.jpg" title="The Lion, the Witch and the Wardrobe (picture book edition)"/>
+			</div>
+			<div class="format-price-wrapper">
+				<div class="price-block">
+										
+						
+						<!--eBook Layout-->
+							<h3>Hardcover</h3>
+															<!--US Layout-->
+																			<p class="price">$16.99</p>	
+										
+									<a class="buy" href="https://store.digitalriver.com/store/harperco/en_US/buy/externalrefid.9780060556501/hcstoreID.NarUS/themeid.36273000?externalstyleid=https%3A%2F%2Fwww.narnia.com%2Fcss%2Fdigitalriver_cart.css" onClick="_gaq.push(['_trackEvent', 'ONSITE_BUY_IMAGELINK_BOOKDETAIL', 'Harper_US', '9780060556501-_-the-lion-the-witch-and-the-wardrobe-picture-book-edition']);" id='buyNowButton'>BUY NOW</a>
+													
+				</div>
+				<!--OTHER FORMATS-->
+								
+				
+
+				
+			<!--
+	-->
+				
+				<!--EBOOK DROPDOWNS OTHER RETAILERS-->
+					<div class="also-available">
+													<label>Also available:</label>
+															<!--US Layout-->
+									<div class="dropdowns-wrapper">
+										<a href="#" class="default" title="Check avaliability">Other retailers <span>&#x25BC;</span></a>
+										<ul class="styled-dropdowns">
+																							<li class="spacer">- - - - - - - - - - -  - - - - - - - - -</li>
+												<li>United States</li>
+																										<li><a href="http://ads.harpercollins.com/narnia?isbn=9780060556501&retailer=amazon&locale=us" title="Amazon" onClick="_gaq.push(['_trackEvent', 'OFFSITE_BUY_DROPDOWN_BOOKDETAIL', 'Amazon', '9780060556501-_-the-lion-the-witch-and-the-wardrobe-picture-book-edition']);" target="_blank">- Amazon</a></li>
+																											<li><a href="http://ads.harpercollins.com/narnia?isbn=9780060556501&retailer=barnesandnoble&locale=us" title="Barnes & Noble" onClick="_gaq.push(['_trackEvent', 'OFFSITE_BUY_DROPDOWN_BOOKDETAIL', 'Barnes_And_Noble', '9780060556501-_-the-lion-the-witch-and-the-wardrobe-picture-book-edition']);" target="_blank">- Barnes & Noble</a></li>
+																											<li><a href="http://ads.harpercollins.com/narnia?isbn=9780060556501&retailer=booksamillion&locale=us" title="Books-A-Million" onClick="_gaq.push(['_trackEvent', 'OFFSITE_BUY_DROPDOWN_BOOKDETAIL', 'Books_A_Million', '9780060556501-_-the-lion-the-witch-and-the-wardrobe-picture-book-edition']);" target="_blank">- Books-A-Million</a></li>
+																											<li><a href="http://ads.harpercollins.com/narnia?isbn=9780060556501&retailer=indiebound&locale=us" title="Indiebound" onClick="_gaq.push(['_trackEvent', 'OFFSITE_BUY_DROPDOWN_BOOKDETAIL', 'Indiebound', '9780060556501-_-the-lion-the-witch-and-the-wardrobe-picture-book-edition']);" target="_blank">- Indiebound</a></li>
+																																				<li class="spacer">- - - - - - - - - - -  - - - - - - - - -</li>
+												<li>Canada</li>
+																										<li><a href="http://ads.harpercollins.com/narnia?isbn=9780060556501&retailer=amazon&locale=ca" title="Amazon" onClick="_gaq.push(['_trackEvent', 'OFFSITE_BUY_DROPDOWN_BOOKDETAIL', 'Amazon_CA', '9780060556501-_-the-lion-the-witch-and-the-wardrobe-picture-book-edition']);" target="_blank">- Amazon</a></li>
+																											<li><a href="http://ads.harpercollins.com/narnia?isbn=9780060556501&retailer=indigo&locale=ca" title="Indigo" onClick="_gaq.push(['_trackEvent', 'OFFSITE_BUY_DROPDOWN_BOOKDETAIL', 'Indigo_Books_and_Music_CA', '9780060556501-_-the-lion-the-witch-and-the-wardrobe-picture-book-edition']);" target="_blank">- Indigo</a></li>
+																								 
+										</ul>	
+									</div>
+																		</div>
+			</div>
+			<!--TABS-->
+			<ul class="tabs">
+				<li><a href="#" id="description" title="Description" class="selected">Description</a></li>	
+				<li><a href="#" id="details" title="Details">Details</a></li>	
+			</ul>
+			<div class="panel panel-description">
+				<blockquote></blockquote>
+				<p>A picture book retelling of C. S. Lewis&#39;s classic story, <em>The Lion, the Witch and the Wardrobe</em>, for the youngest fans! Introduce them to the magic of Narnia with this picture book featuring illustrations by Tudor Humphries.</p><p>Now younger children can share the magical experience, entering into a world of enchantment that will forever lure them back. Four adventurous siblings step through a wardrobe door and into the land of Narnia, a land frozen in eternal winter&#8212;but never Christmas&#8212;cursed by the power of the White Witch. Only Aslan, the Great Lion, can reverse her wicked spell.</p><p><em>The Lion, the Witch and the Wardrobe</em> can also be read as a novel. It is the second book in C. S. Lewis&#39;s classic fantasy series, <em>The Chronicles of Narnia</em>, which has been drawing readers of all ages into a magical land with unforgettable characters for over sixty years.</p>			</div>
+			
+			<div class="panel panel-details">
+				<ul>
+											<li><strong>Publisher:</strong> HarperCollins</li>
+										
+											<li><strong>Imprint:</strong> HarperCollins</li>
+										
+											<li><strong>Format:</strong> Hardcover</li>
+										
+											<li><strong>On Sale:</strong> 09/21/2004</li>
+									</ul>
+				
+				<ul>
+											<li><strong>ISBN:</strong> 9780060556501</li>
+										
+											<li><strong>ISBN 10:</strong> 0060556501</li>
+										
+											<li><strong>ISBN 13:</strong> 9780060556501</li>
+									</ul>	
+				
+				<ul>
+											<li><strong>Pages:</strong> 48</li>
+						
+						
+						
+				</ul>	
+				
+				<ul>
+											<li><strong>Trimsize:</strong> 10.00 x 10.00 in</li>
+						
+						
+							
+				</ul>
+									<ul>
+						<li><strong>Subcategory:</strong></li>
+									
+															<li class="indent">Juvenile Fiction / Classics</li>
+																
+															<li class="indent">Juvenile Fiction / Fantasy & Magic</li>
+																
+															<li class="indent">Juvenile Fiction / Action & Adventure / General</li>
+																		</ul>			
+							</div>
+		</div>
+		<div class="right-col">
+							<h4>Read an excerpt</h4>
+				<div class="web-sampler">
+					<div id="21f016154a8dc82a97e7"></div>
+<script type="text/javascript">!function(){
+window._hcbi = window._hcbi || [];
+window._hcbi.push({ 
+    isbn: 9780060556501,
+    g: 'UA-26555932-5',
+    x: 395,
+    y: 700,
+    t: 'hcsml',
+    c: 'a',
+    f: 1,
+    l: 1,
+    u: 0,
+    d: 1,
+    v: 1,
+    b: 1,
+    s: 0,
+    r: 0,
+    id: '21f016154a8dc82a97e7'});
+var s = document.createElement('script');
+s.type = 'text/javascript'; s.async = true;
+s.src = '//bi.hcpdts.com/js/v2/embi.php';
+var n = document.getElementsByTagName('script')[0];
+n.parentNode.insertBefore(s, n);
+}();</script>				</div>
+						
+						
+								
+		</div>
+	</div>
+		
+					
+					
+</div>
+
+
+
+<div id="dob" style='display:none'>
+	<div class="dob-wrapper">
+		
+		<p>Please enter your date of birth before proceeding to the checkout:</p>
+		<p>Date of birth*: 			<select id='months'><option value=''>Month</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option><option value='11'>11</option><option value='12'>12</option></select> <select id='days'><option value=''>Day</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option><option value='11'>11</option><option value='12'>12</option><option value='13'>13</option><option value='14'>14</option><option value='15'>15</option><option value='16'>16</option><option value='17'>17</option><option value='18'>18</option><option value='19'>19</option><option value='20'>20</option><option value='21'>21</option><option value='22'>22</option><option value='23'>23</option><option value='24'>24</option><option value='25'>25</option><option value='26'>26</option><option value='27'>27</option><option value='28'>28</option><option value='29'>29</option><option value='30'>30</option><option value='31'>31</option></select> <select id='years'><option value=''>Year</option><option value='2015'>2015</option><option value='2014'>2014</option><option value='2013'>2013</option><option value='2012'>2012</option><option value='2011'>2011</option><option value='2010'>2010</option><option value='2009'>2009</option><option value='2008'>2008</option><option value='2007'>2007</option><option value='2006'>2006</option><option value='2005'>2005</option><option value='2004'>2004</option><option value='2003'>2003</option><option value='2002'>2002</option><option value='2001'>2001</option><option value='2000'>2000</option><option value='1999'>1999</option><option value='1998'>1998</option><option value='1997'>1997</option><option value='1996'>1996</option><option value='1995'>1995</option><option value='1994'>1994</option><option value='1993'>1993</option><option value='1992'>1992</option><option value='1991'>1991</option><option value='1990'>1990</option><option value='1989'>1989</option><option value='1988'>1988</option><option value='1987'>1987</option><option value='1986'>1986</option><option value='1985'>1985</option><option value='1984'>1984</option><option value='1983'>1983</option><option value='1982'>1982</option><option value='1981'>1981</option><option value='1980'>1980</option><option value='1979'>1979</option><option value='1978'>1978</option><option value='1977'>1977</option><option value='1976'>1976</option><option value='1975'>1975</option><option value='1974'>1974</option><option value='1973'>1973</option><option value='1972'>1972</option><option value='1971'>1971</option><option value='1970'>1970</option><option value='1969'>1969</option><option value='1968'>1968</option><option value='1967'>1967</option><option value='1966'>1966</option><option value='1965'>1965</option><option value='1964'>1964</option><option value='1963'>1963</option><option value='1962'>1962</option><option value='1961'>1961</option><option value='1960'>1960</option><option value='1959'>1959</option><option value='1958'>1958</option><option value='1957'>1957</option><option value='1956'>1956</option><option value='1955'>1955</option><option value='1954'>1954</option><option value='1953'>1953</option><option value='1952'>1952</option><option value='1951'>1951</option><option value='1950'>1950</option><option value='1949'>1949</option><option value='1948'>1948</option><option value='1947'>1947</option><option value='1946'>1946</option><option value='1945'>1945</option><option value='1944'>1944</option><option value='1943'>1943</option><option value='1942'>1942</option><option value='1941'>1941</option><option value='1940'>1940</option><option value='1939'>1939</option><option value='1938'>1938</option><option value='1937'>1937</option><option value='1936'>1936</option><option value='1935'>1935</option><option value='1934'>1934</option><option value='1933'>1933</option><option value='1932'>1932</option><option value='1931'>1931</option><option value='1930'>1930</option><option value='1929'>1929</option><option value='1928'>1928</option><option value='1927'>1927</option><option value='1926'>1926</option><option value='1925'>1925</option><option value='1924'>1924</option><option value='1923'>1923</option><option value='1922'>1922</option><option value='1921'>1921</option><option value='1920'>1920</option><option value='1919'>1919</option><option value='1918'>1918</option><option value='1917'>1917</option><option value='1916'>1916</option><option value='1915'>1915</option><option value='1914'>1914</option><option value='1913'>1913</option><option value='1912'>1912</option><option value='1911'>1911</option><option value='1910'>1910</option><option value='1909'>1909</option><option value='1908'>1908</option><option value='1907'>1907</option><option value='1906'>1906</option><option value='1905'>1905</option><option value='1904'>1904</option><option value='1903'>1903</option><option value='1902'>1902</option><option value='1901'>1901</option><option value='1900'>1900</option></select>				</p>
+		<a href="javascript:void(checkAge())">Continue</a>
+
+	</div>
+</div>
+
+
+
+
+
+<div id="dobunderage" style='display:none'>
+	<div class="dob-wrapper">
+		<p>Your request cannot be accepted at this time.</p>
+		<a href='javascript:void(closeColorBox())'>Continue</a>
+	</div>
+</div>
+
+
+
+
+<script language='javascript'>
+
+
+// *******************************************
+// new functions:
+
+/*
+function retailerLink(which) {
+	if (which=='amazon') window.open ('http://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=9780060556501','link');
+}
+*/
+
+function changeUrl(url) {
+	if (url.match(/http/))
+	document.location=url;
+}
+
+
+
+function closeColorBox() {
+	$.fancybox.close();
+}
+
+function addToDigitalRiver() {
+	var isSafari = false;
+	var preload = true;
+	
+	if(navigator.appVersion.indexOf("MSIE 8.")!=-1) {
+		preload = false;
+	}
+
+	var ua = navigator.userAgent.toLowerCase(); 
+	
+	if(navigator.userAgent.match('CriOS')) {
+		// Chrome on iOS
+	} else if (ua.indexOf('safari')!=-1) { 
+		if(ua.indexOf('chrome')  > -1) {
+			// Chrome on desktop
+		} else {
+			// Safari
+			isSafari = true;
+			$('#buyNowButton').attr('target', '_blank');
+		}	
+	}
+	
+	
+	if(!isSafari) {
+
+		$('#buyNowButton').fancybox({
+			type: 'iframe',
+			href:"https://store.digitalriver.com/store/harperco/en_US/buy/externalrefid.9780060556501/hcstoreID.NarUS/themeid.36273000?externalstyleid=https%3A%2F%2Fwww.narnia.com%2Fcss%2Fdigitalriver_cart.css",
+			padding:	0,
+			scrollOutside: false,
+			iframe : {
+				preload: preload
+			},
+			tpl : {
+				closeBtn : '<a title="Close" class="fancybox-item fancybox-close" href="javascript:;">X</a>'
+			}
+		}).trigger('click');
+	} else {
+		closeColorBox();
+		window.open('https://store.digitalriver.com/store/harperco/en_US/buy/externalrefid.9780060556501/hcstoreID.NarUS/themeid.36273000?externalstyleid=https%3A%2F%2Fwww.narnia.com%2Fcss%2Fdigitalriver_cart.css', '_blank');
+	}
+	
+}
+
+function checkAge() {
+	var d = $("#days").val();
+	var m = $("#months").val();
+	var y = $("#years").val();
+	if (d=="" || m=="" || y=="") return alert ('Please enter your date of birth');
+	if (d<10) d ="0"+d;
+	if (m<10) m ="0"+m;
+	var bDate = new Date (y+"-"+m+"-"+d);
+	var a =  Math.floor( ( (new Date - bDate) / 1000 / (60 * 60 * 24) ) / 365.25 );
+	
+	$.cookie("spunderage", a, {expires: 2, path: '/'});
+	
+	if (a<18)
+	underAge();
+	else
+	addToDigitalRiver()
+}
+
+$(function(){
+	var isSafari = false;
+	var preload = true;
+	
+	if(navigator.appVersion.indexOf("MSIE 8.")!=-1) {
+		preload = false;
+	}
+
+	var ua = navigator.userAgent.toLowerCase(); 
+	
+	if(navigator.userAgent.match('CriOS')) {
+		// Chrome on iOS
+	} else if (ua.indexOf('safari')!=-1) { 
+		if(ua.indexOf('chrome')  > -1) {
+			// Chrome on desktop
+		} else {
+			// Safari
+			isSafari = true;
+			$('#buyNowButton').attr('target', '_blank');
+		}	
+	}
+
+
+	if ("1"=="1") {
+		var c = $.cookie("spunderage");
+		if (c) {
+			if (c<18) {
+			
+				$('#buyNowButton').fancybox({
+					padding:	0,
+					href:	'#dobunderage',
+					tpl : {
+						closeBtn : '<a title="Close" class="fancybox-item fancybox-close" href="javascript:;">X</a>'
+					}
+				});
+			} else {
+			
+				if(!isSafari) {
+					$('#buyNowButton').fancybox({
+						type: 'iframe',
+						href:"https://store.digitalriver.com/store/harperco/en_US/buy/externalrefid.9780060556501/hcstoreID.NarUS/themeid.36273000?externalstyleid=https%3A%2F%2Fwww.narnia.com%2Fcss%2Fdigitalriver_cart.css",
+						padding:	0,
+						scrollOutside: false,
+						iframe : {
+							preload: preload
+						},
+						tpl : {
+							closeBtn : '<a title="Close" class="fancybox-item fancybox-close" href="javascript:;">X</a>'
+						}
+					});
+				}
+			}	
+					
+		} else {	
+			$('#buyNowButton').fancybox({
+				padding:	0,
+				href:	'#dob',
+				tpl : {
+					closeBtn : '<a title="Close" class="fancybox-item fancybox-close" href="javascript:;">X</a>'
+				}
+			});
+		}
+	} else {
+		if(!isSafari) {
+			$('#buyNowButton').fancybox({
+				type: 'iframe',
+				href:"https://store.digitalriver.com/store/harperco/en_US/buy/externalrefid.9780060556501/hcstoreID.NarUS/themeid.36273000?externalstyleid=https%3A%2F%2Fwww.narnia.com%2Fcss%2Fdigitalriver_cart.css",
+				padding:	0,
+				scrollOutside: false,
+				iframe : {
+					preload: preload
+				},
+				tpl : {
+					closeBtn : '<a title="Close" class="fancybox-item fancybox-close" href="javascript:;">X</a>'
+				}
+			});
+		}
+		
+	}
+	
+	$('.tabs a').click(function(){
+		var panel = $(this).attr('id');
+		$('.tabs a').removeClass('selected');
+		$(this).addClass('selected');
+		$('.panel').hide();
+		$('.panel-'+panel).fadeIn(function(){
+			canvasresize();
+		});
+		return false
+	});
+	
+	//Scrolling Thumbs Set-up
+    $('#other-formats-carousel').jcarousel({
+       scroll: 1
+    });
+    
+    $('.dropdowns-wrapper .default').click(function(){
+	    $(this).siblings('.styled-dropdowns').toggle(0, function() {
+	    	
+		   canvasresize();
+	    });
+	    return false;
+    })
+	
+});
+
+function underAge() {
+	$('#buyNowButton').fancybox({
+		padding:	0,
+		href:	'#dobunderage'
+	}).trigger('click');
+}
+
+/*!
+* jQuery Cookie Plugin
+* https://github.com/carhartl/jquery-cookie
+*
+* Copyright 2011, Klaus Hartl
+* Dual licensed under the MIT or GPL Version 2 licenses.
+* http://www.opensource.org/licenses/mit-license.php
+* http://www.opensource.org/licenses/GPL-2.0
+*/
+
+(function($){$.cookie=function(key,value,options){if(arguments.length>1&&(!/Object/.test(Object.prototype.toString.call(value))||value===null||value===undefined)){options=$.extend({},options);if(value===null||value===undefined){options.expires=-1;}if(typeof options.expires==='number'){var days=options.expires,t=options.expires=new Date();t.setDate(t.getDate()+days);}value=String(value);return(document.cookie=[encodeURIComponent(key),'=',options.raw?value:encodeURIComponent(value),options.expires?';expires='+options.expires.toUTCString():'',options.path?';path='+options.path:'',options.domain?';domain='+options.domain:'',options.secure?';secure':''].join(''));}options=value||{};var decode=options.raw?function(s){return s;}:decodeURIComponent;
+var pairs=document.cookie.split(';');for(var i=0, pair;pair=pairs[i]&&pairs[i].split('=');i++){if(decode(pair[0].replace(/^ /,''))===key) return decode(pair[1]||'');}return null;};})(jQuery);
+
+
+// *******************************************
+
+
+
+function canvasresize() {
+	var app = $('#product-page');
+	var appheight = app.outerHeight();
+	var snippet = app.parent('.snippet');
+	var canvas = snippet.parent('.canvas');
+	
+	snippet.css('height', appheight+50);
+	canvas.css('height', appheight+100);
+}
+
+$(window).load(function () {
+	canvasresize();
+});
+
+</script>
+</div></div>
+
+</div>
+<div id="f32058container" class="footerWrapper" style="width:100%;border::::;/*position:relative;*/background:none repeat scroll 0% 0% transparent;background-color:transparent;background-color:transparent;background:none repeat scroll 0% 0% transparent;margin-top:0px;margin-bottom:0px;">
+
+<div style="overflow:visible;background:none repeat scroll 0% 0% transparent;width:976px;" class="clientfooterHolder">
+<div id="canvasf32058" class="canvas" style='position:relative; width:100%px;'>
+
+
+<div class="snippet type-text" id="snippet729494" >
+    <p>
+<span style="font-size:14px;"><strong><span style="font-family: arial, helvetica, sans-serif; "><a href="/us">HOME</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:#fff;">&nbsp;| </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="/us/books">BOOKS</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color:#fff;">|</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/us/narnia-social-media">NARNIA SOCIAL</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color:#fff;">|</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="/us/news-extras/narnia-news">NARNIA NEWS &amp; EXTRAS</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:#fff;">| &nbsp;</span> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="http://www.cslewis.com" style="color: rgb(255, 255, 255); " target="_blank">VISIT &nbsp;CSLEWIS.COM</a></span></strong></span></p>
+</div>
+<div class="snippet type-apps" id="snippet740574" >
+    
+<iframe scrolling="no" frameborder="no" style="width:575px;height:65px" src="//www.narnia.com/php/emailSignup.php" allowtransparency="true"></iframe>
+
+</div>
+<div class="snippet type-text" id="snippet740638" >
+    <h3>
+SIGN UP FOR OUR NEWSLETTER:</h3>
+</div>
+<div class="snippet type-text" id="snippet740655" >
+    <h3>
+JOIN US:</h3>
+</div>
+<div class="snippet type-text" id="snippet740685" >
+    <p style="text-align: right;">
+<span style="color:#fff;">Copyright &copy; HarperCollins Publishers. All Rights Reserved</span></p>
+</div>
+<div class="snippet type-text" id="snippet740686" >
+    <p>
+<span style="color:#fff;"><a href="http://www.harpercollins.com/footer/privacyPolicy.aspx" target="_blank">Privacy Policy</a>&nbsp; | &nbsp;<a href="http://apps.harpercollins.com/termsofuse" target="_blank">Terms of Use</a>&nbsp; | &nbsp;<a href="http://www.harpercollins.com">www.harpercollins.com</a><br>
+</span></p>
+</div>
+<div class="snippet type-text" id="snippet740691" >
+    <ul id="footer-country">
+<li>
+Change Country:</li>
+<li id="us">
+<a href="/us" title="USA/CAN">USA/CAN</a></li>
+<li id="uk">
+<a href="/uk" title="UK/ANZ">UK/ANZ</a></li>
+</ul>
+</div>
+<div class="snippet type-image" id="snippet742855" >
+    <a href="https://www.facebook.com/TheChroniclesofNarnia" target="_blank" class='snippetImageLink' ><img class='snippetImage' src='/images/working2/p0/29060.png' alt="facebook" /></a>
+</div>
+<div class="snippet type-image" id="snippet742856" >
+    <a href="https://twitter.com/officialnarnia" target="_blank" class='snippetImageLink' ><img class='snippetImage' src='/images/working2/p0/29061.png' alt="twitter" /></a>
+</div>
+<div class="snippet type-image" id="snippet742857" >
+    <a href="http://pinterest.com/officialnarnia/pins/" target="_blank" class='snippetImageLink' ><img class='snippetImage' src='/images/working2/p0/29062.png' alt="pinterest" /></a>
+</div>
+<div class="snippet type-image" id="snippet742858" >
+    <a href="https://plus.google.com/u/0/115145947911238285675/about" target="_blank" class='snippetImageLink' ><img class='snippetImage' src='/images/working2/p0/29063.png' alt="google +" /></a>
+</div>
+<div class="snippet type-image" id="snippet742859" >
+    <a href="http://thechroniclesofnarniaofficial.tumblr.com/" target="_blank" class='snippetImageLink' ><img class='snippetImage' src='/images/working2/p0/29064.png' alt="tumblr" /></a>
+</div>
+<div class="snippet type-apps" id="snippet757660" >
+    
+<!-- AddThis Button BEGIN --><div class="addthis_toolbox addthis_default_style addthis_16x16_style"><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_pinterest_share"></a><a class="addthis_button_google_plusone_share"></a><a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a></div><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-524be0da191c5cf5"></script><!-- AddThis Button END -->
+
+</div>
+<div class="snippet type-text" id="snippet757661" >
+    <h3>
+<span style="color:#325096;">SHARE:</span></h3>
+</div>
+<div class="snippet type-text" id="snippet769377" >
+    <p style="text-align: right;">
+<span style="color:#fff;">Powered by <a href="http://about.supadu.com" style="color: rgb(255, 255, 255);" target="_blank">SupadÃ¼</a></span></p>
+</div></div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-44612543-1']);
+	_gaq.push(['_trackPageview']);
+
+	_gaq.push(['t2._setAccount', 'UA-44612543-1']);
+	_gaq.push(['t2._setDomainName', 'narnia.com']);
+	_gaq.push(['t2._trackPageview']);
+	_gaq.push(['t2._setAllowLinker', true]);
+	_gaq.push(['t2._trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1063012019;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1063012019/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MJZF8H"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MJZF8H');</script>
+<!-- End Google Tag Manager -->
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1501655890120335&amp;ev=PixelInitialized" /></noscript></body>
+</html>

@@ -29,19 +29,18 @@ print(songList)
 spider = Spider.Spider()
 for item in bookList:
     test = 0
-    urls = search(item + " book", 'com', 'en', '0', 'off', 0, 0, 10, 2.0, True, {}, '')
+    urls = search(item + " book", 'com', 'en', '0', 'off', 1, 0, 11, 2.0, True, {}, '')
     for url in urls:
-        print(str(test) +" "+ url)
-        test = test + 1
-    print("\n\n")
+         if(type(url) is str):
+            print(spider.fetch(url, "movie"))
 
 for item in movieList:
-    for url in search(item + " movie", 'com', 'en', '0', 'off', 0, 0, 10, 2.0, True, {}, ''):
+    for url in search(item + " movie", 'com', 'en', '0', 'off', 1, 0, 11, 2.0, True, {}, ''):
          if(type(url) is str):
             print(spider.fetch(url, "movie"))
 
 for item in songList:
-    for url in search(item + " song", 'com', 'en', '0', 'off', 0, 0, 10, 2.0, True, {}, ''):
+    for url in search(item + " song", 'com', 'en', '0', 'off', 1, 0, 11, 2.0, True, {}, ''):
          if(type(url) is str):
             print(spider.fetch(url, "song"))
 

@@ -1,0 +1,27 @@
+Server: nginx
+X-Varnish: 309703479
+Vary: Accept-Encoding, Cookie, Cookie
+Cache-Control: public, max-age=900
+Content-Type: text/html; charset=utf-8
+X-Styx-Build-Sha: 64bde2f8f2c8dfbd6243c2c6644047b70e79519f
+X-Pantheon-Styx-Hostname: styxe3d2930f
+X-Styx-Version: StyxGo
+Date: Tue, 17 Feb 2015 15:06:40 GMT
+Link: <http://www.newrepublic.com/article/119527/review-censored-version-lolita-vladimir-nabokov>; rel="canonical"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Drupal-Cache: MISS
+X-Styx-Req-Id: styx-5c122a028c103c75974c359279f2db7f
+x-url: /article/119527/review-censored-version-lolita-vladimir-nabokov
+Transfer-Encoding: chunked
+Content-Language: en
+x-host: www.newrepublic.com
+X-Generator: Drupal 7 (http://drupal.org)
+X-Pantheon-Endpoint: d6f9d3b8-aab3-4d6d-ba90-386509907177
+Via: 1.1 varnish
+Connection: close
+Last-Modified: Tue, 17 Feb 2015 15:06:40 GMT
+X-Styx-Build-Date: Mon Jan 26 23:46:54 UTC 2015
+X-Powered-By: PHP/5.3.29
+X-Styx-Build-Num: 864
+Age: 0
+

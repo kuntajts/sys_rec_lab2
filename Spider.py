@@ -24,10 +24,11 @@ class Spider():
 
 
     def fetch(self, url, doctype):
+        # check if entry already exists
         id = self.database.lookupCachedURL_byURL(url)
         if id is not None:
             return id
-
+        # take a short break
         time.sleep(random.uniform(3, 6))
         html = self.htmlGetter.getHTMLFromURL2(url)
         self.soupMachine = SoupMachine.SoupMachine(html)
