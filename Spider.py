@@ -28,7 +28,7 @@ class Spider():
         if id is not None:
             return id
 
-        time.sleep(random.uniform(.3, 3))
+        time.sleep(random.uniform(3, 6))
         html = self.htmlGetter.getHTMLFromURL2(url)
         self.soupMachine = SoupMachine.SoupMachine(html)
         title = self.soupMachine.getTitle()

@@ -38,12 +38,12 @@ class HTMLGetter():
         except (urllib.error.HTTPError):
             import sys; ty, err, tb = sys.exc_info()
             print("HTTP Error: " + str(urllib.error.HTTPError))
-            time.sleep(2)
+            time.sleep(3)
             return "could not fetch URL"
         except socket.error:
             import sys; ty, err, tb = sys.exc_info()
             print("Socket Error.")
-            time.sleep(2)
+            time.sleep(3)
             return self.getHTMLFromURL2(url)
 
     def getHeader(self):

@@ -1,11 +1,27 @@
 __author__ = 'andrew'
 import Spider
 from google import search
+import os
 
 
 #
 
 # Get the first 20 hits for "Mariposa botnet" in Google Spain
+
+
+if not os.path.exists("data/cache"):
+    os.makedirs("data/cache")
+
+if not os.path.exists("data/raw"):
+    os.makedirs("data/raw")
+
+if not os.path.exists("data/header"):
+    os.makedirs("data/header")
+
+if not os.path.exists("data/clean"):
+    os.makedirs("data/clean")
+
+
 
 books = open("data/item/book.txt", "r")
 bookList = []
@@ -26,17 +42,20 @@ for song in songs:
 print(songList)
 spider = Spider.Spider()
 for item in bookList:
-    for url in search(item + " book"):
-        if(type(url) is str):
-            print(spider.fetch(url, "book"))
+    test = 0
+    urls = search(item + " book", 'com', 'en', '0', 'off', 0, 0, 10, 2.0, True, {}, '')
+    for url in urls:
+        print(str(test) +" "+ url)
+        test = test + 1
+    print("\n\n")
 
 for item in movieList:
-    for url in search(item + " movie"):
+    for url in search(item + " movie", 'com', 'en', '0', 'off', 0, 0, 10, 2.0, True, {}, ''):
          if(type(url) is str):
             print(spider.fetch(url, "movie"))
 
 for item in songList:
-    for url in search(item + " song"):
+    for url in search(item + " song", 'com', 'en', '0', 'off', 0, 0, 10, 2.0, True, {}, ''):
          if(type(url) is str):
             print(spider.fetch(url, "song"))
 

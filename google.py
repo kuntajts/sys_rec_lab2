@@ -160,7 +160,7 @@ def search_apps(query, tld='com', lang='en', tbs='0', safe='off', num=10, start=
 
 # Returns a generator that yields URLs.
 def search(query, tld='com', lang='en', tbs='0', safe='off', num=10, start=0,
-           stop=None, pause=2.0, only_standard=False, extra_params={}, tpe=''):
+           stop=10, pause=2.0, only_standard=False, extra_params={}, tpe=''):
     """
     Search the given query string using Google.
 
