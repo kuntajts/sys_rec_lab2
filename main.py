@@ -29,7 +29,7 @@ for item in bookList:
     urls = search(item + " book", 'com', 'en', '0', 'off', 1, 0, 11, random.uniform(10.0, 60.0), True, {}, '')
     for url in urls:
          if(type(url) is str):
-            print(spider.fetch(url, "movie"))
+            print(spider.fetch(url, "book"))
 
 for item in movieList:
     for url in search(item + " movie", 'com', 'en', '0', 'off', 1, 0, 11, random.uniform(10.0, 60.0), True, {}, ''):
