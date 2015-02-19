@@ -984,9 +984,9 @@ Jerry Cruncher= Jesus Christ</p>
 	 
 	    
 	    	    <div class="clearfix media sidebar-media ">
-	 		<a href="http://community.sparknotes.com/2015/02/12/ya-valentines-for-our-favorite-paper-people"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/yavalbatch2study.jpg	" /></a>      
+	 		<a href="http://community.sparknotes.com/2015/02/16/attn-famous-people-weve-got-even-moar-gorgeous-gowns-for-you-to-wear-to-the-2015-oscars"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/oscars0217study.jpg	" /></a>      
 	        	<div class="media-text">
-	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/12/ya-valentines-for-our-favorite-paper-people">We have YA-themed Valentine's for the biggest book nerds O.A.T.</a></h4>
+	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/16/attn-famous-people-weve-got-even-moar-gorgeous-gowns-for-you-to-wear-to-the-2015-oscars">What is JLaw going to wear on Sunday for the OSCARS?!</a></h4>
 	    		</div>    
 	        	    </div>	
 	 
@@ -1000,6 +1000,14 @@ Jerry Cruncher= Jesus Christ</p>
 	 
 	    
 	    	    <div class="clearfix media sidebar-media ">
+	 		<a href="http://community.sparknotes.com/2015/02/17/sasha-and-malia-are-the-coolest-heres-why"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/sashamalstudy.jpg	" /></a>      
+	        	<div class="media-text">
+	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/17/sasha-and-malia-are-the-coolest-heres-why">Sasha and Malia are crushing adolescence... here's why</a></h4>
+	    		</div>    
+	        	    </div>	
+	 
+	    
+	    	    <div class="clearfix media sidebar-media ">
 	 		<a href="http://community.sparknotes.com/2015/02/13/whats-j-k-rowling-sad-about-grammy-pics-celeb-birthdays"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/twitterss0213study.jpg	" /></a>      
 	        	<div class="media-text">
 	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/13/whats-j-k-rowling-sad-about-grammy-pics-celeb-birthdays">This is the WEIRDEST Twitter recap EVER</a></h4>
@@ -1008,25 +1016,17 @@ Jerry Cruncher= Jesus Christ</p>
 	 
 	    
 	    	    <div class="clearfix media sidebar-media ">
-	 		<a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaycustomstudy.jpg	" /></a>      
+	 		<a href="http://community.sparknotes.com/2015/02/12/ya-valentines-for-our-favorite-paper-people"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/yavalbatch2study.jpg	" /></a>      
 	        	<div class="media-text">
-	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts">We made Valentines for everyone who thinks love is just a shout into the void but yells anyway</a></h4>
+	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/12/ya-valentines-for-our-favorite-paper-people">We have YA-themed Valentine's for the biggest book nerds O.A.T.</a></h4>
 	    		</div>    
 	        	    </div>	
 	 
 	    
 	    	    <div class="clearfix media sidebar-media ">
-	 		<a href="http://community.sparknotes.com/2015/02/09/welcome-to-the-bammys-all-the-greatest-looks-from-the-grammys-baftas-in-one-glorious-slideshow"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/grammys15study.jpg	" /></a>      
+	 		<a href="http://community.sparknotes.com/2015/02/12/what-its-like-to-date-an-invisible-boyfriend-for-a-week"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/invisboystudy.jpg	" /></a>      
 	        	<div class="media-text">
-	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/09/welcome-to-the-bammys-all-the-greatest-looks-from-the-grammys-baftas-in-one-glorious-slideshow">WE NEED TO TALK about what everyone wore to the Grammys</a></h4>
-	    		</div>    
-	        	    </div>	
-	 
-	    
-	    	    <div class="clearfix media sidebar-media ">
-	 		<a href="http://community.sparknotes.com/2015/02/09/valentines-day-makeup-aka-how-to-prep-your-face-to-smooch-chris-pratt"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/all0209study.jpg	" /></a>      
-	        	<div class="media-text">
-	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/09/valentines-day-makeup-aka-how-to-prep-your-face-to-smooch-chris-pratt">This makeup is the MOST KISSABLE probably ever</a></h4>
+	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/12/what-its-like-to-date-an-invisible-boyfriend-for-a-week">What's it like to date an Invisible Boyfriend? Emma finds out</a></h4>
 	    		</div>    
 	        	    </div>	
 		
@@ -1092,51 +1092,51 @@ Jerry Cruncher= Jesus Christ</p>
 
 			<div class="clearfix media sidebar-media">
 			<a href="">
-				<a class="fixed-media" href="http://bit.ly/1zymkyI"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_authorcrushes_LargeWide.jpg" /></a>	
+				<a class="fixed-media" href="http://bit.ly/1L7ughg"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_YAdating_LargeWide.jpg" /></a>	
 			</a> 
 			<div class="media-text">
 				<h4 class="semi-bold">
-					<a href="http://bit.ly/1zymkyI">10 YA Authors Dish on Their Biggest Author Crushes</a>				</h4>
+					<a href="http://bit.ly/1L7ughg">The YA Loverâs Foolproof Guide to Landing a Date</a>				</h4>
 			</div>    
 		</div>
 
 			<div class="clearfix media sidebar-media">
 			<a href="">
-				<a class="fixed-media" href="http://bit.ly/1zyc8X5"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_booknerdlovestories_LargeWide.jpg" /></a>	
+				<a class="fixed-media" href="http://bit.ly/1FuITN3"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_superheroes_LargeWide.jpg" /></a>	
 			</a> 
 			<div class="media-text">
 				<h4 class="semi-bold">
-					<a href="http://bit.ly/1zyc8X5">6 YA Love Stories for Book Nerds</a>				</h4>
+					<a href="http://bit.ly/1FuITN3">7 Comic-Book Heroines Who Deserve Their Own Movie</a>				</h4>
 			</div>    
 		</div>
 
 			<div class="clearfix media sidebar-media">
 			<a href="">
-				<a class="fixed-media" href="http://bit.ly/1AfAA6u"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_romanticlines_LargeWide.jpg" /></a>	
+				<a class="fixed-media" href="http://bit.ly/1zP6LTy"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_GaimanHandler_LargeWide.jpg" /></a>	
 			</a> 
 			<div class="media-text">
 				<h4 class="semi-bold">
-					<a href="http://bit.ly/1AfAA6u">14 of the Most Romantic Lines in Literature</a>				</h4>
+					<a href="http://bit.ly/1zP6LTy">Why We Want Neil Gaiman and Daniel Handler to Be Our BFFs</a>				</h4>
 			</div>    
 		</div>
 
 			<div class="clearfix media sidebar-media">
 			<a href="">
-				<a class="fixed-media" href="http://bit.ly/1zaJnAN"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_fictionaldoorways_LargeWide.jpg" /></a>	
+				<a class="fixed-media" href="http://bit.ly/1CJi0in"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_diaryfiction_LargeWide.jpg" /></a>	
 			</a> 
 			<div class="media-text">
 				<h4 class="semi-bold">
-					<a href="http://bit.ly/1zaJnAN">Fiction's Weirdest Doors to Other Worlds</a>				</h4>
+					<a href="http://bit.ly/1CJi0in">10 Diary-Style YA Novels We Love</a>				</h4>
 			</div>    
 		</div>
 
 			<div class="clearfix media sidebar-media">
 			<a href="">
-				<a class="fixed-media" href="http://bit.ly/1DcWpCH"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_ThisOneSummer_LargeWide.jpg" /></a>	
+				<a class="fixed-media" href="http://bit.ly/1FSWyLn"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_Panretellings_LargeWide.jpg" /></a>	
 			</a> 
 			<div class="media-text">
 				<h4 class="semi-bold">
-					<a href="http://bit.ly/1DcWpCH">7 Graphic Novels Every YA Fan Should Read</a>				</h4>
+					<a href="http://bit.ly/1FSWyLn">5 Must-Read Peter Pan Retellings</a>				</h4>
 			</div>    
 		</div>
 

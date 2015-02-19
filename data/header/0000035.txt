@@ -1,9 +1,0 @@
-Server: nginx/1.4.6 (Ubuntu)
-Date: Tue, 17 Feb 2015 15:00:08 GMT
-Content-Type: text/html; charset=UTF-8
-Transfer-Encoding: chunked
-Connection: close
-X-Powered-By: PHP/5.5.9-1ubuntu4.5
-Set-Cookie: PHPSESSID=cvul0vcmclrddlgo5bmthpigm2; path=/; domain=.archive.org
-Set-Cookie: trybeta=80; expires=Wed, 17-Feb-2016 15:00:08 GMT; Max-Age=31536000; path=/; domain=.archive.org
-

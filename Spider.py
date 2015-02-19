@@ -44,12 +44,14 @@ class Spider():
         self.soupMachine.removeJunk()
         strippedhtml = self.removePunc(self.removeComments(self.removeHtmlComments(self.soupMachine.getText())))
         lowercaseTokenList = self.removeUpperFromObject(nltk.word_tokenize(strippedhtml))
-        tokens = self.convertListToDictionary(lowercaseTokenList)
+        terms = self.convertListToDictionary(lowercaseTokenList)
 
+        lowercaseTokenString = '\n'.join(lowercaseTokenList)
+        print(lowercaseTokenString)
         #Create all text files.
         databaseWrapper = Database.Wrapper()
 
-        databaseWrapper.createCleanFile(tokens, id)
+        databaseWrapper.createCleanFile(lowercaseTokenString, id)
         databaseWrapper.createRawFile(htmlPageString, id)
         databaseWrapper.createHeaderFile(header, id)
         return id

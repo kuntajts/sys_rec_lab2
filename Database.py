@@ -218,13 +218,15 @@ class Wrapper(object):
         if not os.path.exists("data/raw/"):
             os.path.mkdir("data/raw/")
 
-    def createCleanFile(self, dict, id):
+    def createCleanFile(self, input, id):
         filename = self.getFileNameFromID(id)
         fo = open(("data/clean/" + filename), "w+")
 
-        if (type(dict) == type(defaultdict())):
-            for key, value in dict.items():
-                fo.write(str(key) + "\n")
+        #if (type(dict) == type(defaultdict())):
+        #    for key, value in dict.items():
+        #        fo.write(str(key) + "\n")
+
+        fo.write(input)
         fo.close()
 
     def createRawFile(self, input, id):

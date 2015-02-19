@@ -1,8 +1,0 @@
-Server: Apache
-Content-Type: text/html; charset=utf-8
-Vary: Accept-Encoding
-Date: Tue, 17 Feb 2015 15:08:00 GMT
-Transfer-Encoding: chunked
-Connection: close
-Connection: Transfer-Encoding
-

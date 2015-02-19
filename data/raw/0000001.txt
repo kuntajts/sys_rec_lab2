@@ -15,9 +15,9 @@ Gutenberg metadata much faster than by scraping.
 
 <head xmlns:og="http://opengraphprotocol.org/schema/" profile="http://a9.com/-/spec/opensearch/1.1/">
 <style type="text/css">
-.icon   { background: transparent url(/pics/sprite.png?1424179017) 0 0 no-repeat; }
+.icon   { background: transparent url(/pics/sprite.png?1424256290) 0 0 no-repeat; }
 </style>
-<link rel="stylesheet" type="text/css" href="/css/pg-desktop-one.css?1424179017" />
+<link rel="stylesheet" type="text/css" href="/css/pg-desktop-one.css?1424256290" />
 <script type="text/javascript">//<![CDATA[
 var json_search     = "/ebooks/suggest/";
 var mobile_url      = "//m.gutenberg.org/ebooks/98.mobile";
@@ -29,7 +29,7 @@ var page_mode       = "screen";
 var dialog_title    = "";
 var dialog_message  = "";
 //]]></script>
-<script type="text/javascript" src="/js/pg-desktop-one.js?1424179017"></script>
+<script type="text/javascript" src="/js/pg-desktop-one.js?1424256290"></script>
 <link rel="shortcut icon" href="/pics/favicon" />
 <link rel="canonical" href="http://www.gutenberg.org/ebooks/98" />
 <link rel="search" type="application/opensearchdescription+xml" title="Suche im Projekt Gutenberg" href="//www.gutenberg.org/catalog/osd-books.xml" />
@@ -70,7 +70,7 @@ var dialog_message  = "";
 </li>
 <li class="breadcrumb next" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
 <span class="breadcrumb-separator"></span>
-<a href="/ebooks/" title="Starte eine neue Suche." itemprop="url"><span itemprop="title">48.188 freie Ebooks</span></a>
+<a href="/ebooks/" title="Starte eine neue Suche." itemprop="url"><span itemprop="title">48.210 freie Ebooks</span></a>
 </li>
 <li class="breadcrumb next" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
 <span class="breadcrumb-separator"></span>
@@ -93,7 +93,7 @@ var dialog_message  = "";
 <ul>
 <li>
 <div class="social-button fb-share-button">
-<a href="https://www.facebook.com/dialog/feed?redirect_uri=https%3A%2F%2Fwww.gutenberg.org%2Ffb_redirect.html&amp;description=Free%20kindle%20book%20and%20epub%20digitized%20and%20proofread%20by%20Projekt%20Gutenberg.&amp;app_id=115319388529183&amp;name=A%20Tale%20of%20Two%20Cities%20by%20Charles%20Dickens&amp;link=http%3A%2F%2Fwww.gutenberg.org%2Febooks%2F98" title="Teile auf Facebook" onclick="open_share_popup(this.href, this.target, 1024, 560)" target="_fb_share_popup">
+<a href="https://www.facebook.com/dialog/feed?name=A%20Tale%20of%20Two%20Cities%20by%20Charles%20Dickens&amp;redirect_uri=https%3A%2F%2Fwww.gutenberg.org%2Ffb_redirect.html&amp;app_id=115319388529183&amp;description=Free%20kindle%20book%20and%20epub%20digitized%20and%20proofread%20by%20Projekt%20Gutenberg.&amp;link=http%3A%2F%2Fwww.gutenberg.org%2Febooks%2F98" title="Teile auf Facebook" onclick="open_share_popup(this.href, this.target, 1024, 560)" target="_fb_share_popup">
 <span class="icon icon_facebook"></span>
 </a>
 </div>
@@ -109,7 +109,7 @@ var dialog_message  = "";
 <li>
 <!-- tweet without javascript -->
 <div class="social-button twitter-share-button">
-<a href="https://twitter.com/share?lang=de&amp;related=gutenberg_new%3AProject%20Gutenberg%20New%20Books&amp;url=http%3A%2F%2Fwww.gutenberg.org%2Febooks%2F98&amp;text=A%20Tale%20of%20Two%20Cities%20by%20Charles%20Dickens&amp;count=none" title="Teile auf Twitter" onclick="open_share_popup(this.href, this.target, 640, 320)" target="_tw_share_popup">
+<a href="https://twitter.com/share?text=A%20Tale%20of%20Two%20Cities%20by%20Charles%20Dickens&amp;related=gutenberg_new%3AProject%20Gutenberg%20New%20Books&amp;lang=de&amp;url=http%3A%2F%2Fwww.gutenberg.org%2Febooks%2F98&amp;count=none" title="Teile auf Twitter" onclick="open_share_popup(this.href, this.target, 640, 320)" target="_tw_share_popup">
 <span class="icon icon_twitter"></span>
 </a>
 </div>
@@ -243,7 +243,7 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 </tr>
 <tr>
 <th>Downloads</th>
-<td itemprop="interactionCount">16079 Downloads in den letzten 30 Tagen.</td>
+<td itemprop="interactionCount">16244 Downloads in den letzten 30 Tagen.</td>
 </tr>
 <tr itemprop="offers" itemscope="itemscope" itemtype="http://schema.org/Offer">
 <th>Preis</th>
@@ -253,7 +253,7 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 </div>
 <div id="more_stuff">
 <h2 class="header">Ãhnliche BÃ¼cher</h2>
-<div class="grayed navlink noprint">
+<div class="navlink grayed noprint">
 <a rel="nofollow" href="/ebooks/98/also/" accesskey="1">
 <span class="cell leftcell">
 <span class="icon icon_suggestion"></span>
@@ -264,7 +264,7 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 <span class="hstrut"></span>
 </a>
 </div>
-<div class="grayed navlink">
+<div class="navlink grayed">
 <a rel="nofollow" href="/ebooks/bookshelf/41" accesskey="2">
 <span class="cell leftcell">
 <span class="icon icon_bookshelf"></span>
@@ -318,10 +318,10 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 <td class="noprint">
 <a href="/ebooks/send/megaupload/98.html" title="Send to MegaUpload." rel="nofollow"></a>
 </td>
-</tr><tr class="even" about="//www.gutenberg.org/ebooks/98.epub.images?session_id=f273812bd6e9763974d050f844cf773bb90b8908" typeof="pgterms:file">
+</tr><tr class="even" about="//www.gutenberg.org/ebooks/98.epub.images?session_id=a350e1bbeeee07d33738eaffddc363340afd1972" typeof="pgterms:file">
 <td><span class="icon icon_book"></span></td>
-<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.epub.images?session_id=f273812bd6e9763974d050f844cf773bb90b8908" type="application/epub+zip" class="link" title="Download">EPUB (mit Bildern)</a></td>
-<td class="noscreen">//www.gutenberg.org/ebooks/98.epub.images?session_id=f273812bd6e9763974d050f844cf773bb90b8908</td>
+<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.epub.images?session_id=a350e1bbeeee07d33738eaffddc363340afd1972" type="application/epub+zip" class="link" title="Download">EPUB (mit Bildern)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/98.epub.images?session_id=a350e1bbeeee07d33738eaffddc363340afd1972</td>
 <td class="right" property="dcterms:extent" content="2244516">2.1Â MB</td>
 <td class="noprint">
 <a href="/ebooks/send/dropbox/98.epub.images" title="An Dropbox senden." rel="nofollow"><span class="icon icon_dropbox"></span></a>
@@ -332,10 +332,10 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 <td class="noprint">
 <a href="/ebooks/send/msdrive/98.epub.images" title="An OneDrive senden." rel="nofollow"><span class="icon icon_msdrive"></span></a>
 </td>
-</tr><tr class="odd" about="//www.gutenberg.org/ebooks/98.epub.noimages?session_id=f273812bd6e9763974d050f844cf773bb90b8908" typeof="pgterms:file">
+</tr><tr class="odd" about="//www.gutenberg.org/ebooks/98.epub.noimages?session_id=a350e1bbeeee07d33738eaffddc363340afd1972" typeof="pgterms:file">
 <td><span class="icon icon_book"></span></td>
-<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.epub.noimages?session_id=f273812bd6e9763974d050f844cf773bb90b8908" type="application/epub+zip" class="link" title="Download">EPUB (ohne Bilder)</a></td>
-<td class="noscreen">//www.gutenberg.org/ebooks/98.epub.noimages?session_id=f273812bd6e9763974d050f844cf773bb90b8908</td>
+<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.epub.noimages?session_id=a350e1bbeeee07d33738eaffddc363340afd1972" type="application/epub+zip" class="link" title="Download">EPUB (ohne Bilder)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/98.epub.noimages?session_id=a350e1bbeeee07d33738eaffddc363340afd1972</td>
 <td class="right" property="dcterms:extent" content="651513">636Â kB</td>
 <td class="noprint">
 <a href="/ebooks/send/dropbox/98.epub.noimages" title="An Dropbox senden." rel="nofollow"><span class="icon icon_dropbox"></span></a>
@@ -346,10 +346,10 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 <td class="noprint">
 <a href="/ebooks/send/msdrive/98.epub.noimages" title="An OneDrive senden." rel="nofollow"><span class="icon icon_msdrive"></span></a>
 </td>
-</tr><tr class="even" about="//www.gutenberg.org/ebooks/98.kindle.images?session_id=f273812bd6e9763974d050f844cf773bb90b8908" typeof="pgterms:file">
+</tr><tr class="even" about="//www.gutenberg.org/ebooks/98.kindle.images?session_id=a350e1bbeeee07d33738eaffddc363340afd1972" typeof="pgterms:file">
 <td><span class="icon icon_book"></span></td>
-<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.kindle.images?session_id=f273812bd6e9763974d050f844cf773bb90b8908" type="application/x-mobipocket-ebook" class="link" title="Download">Kindle (mit Bildern)</a></td>
-<td class="noscreen">//www.gutenberg.org/ebooks/98.kindle.images?session_id=f273812bd6e9763974d050f844cf773bb90b8908</td>
+<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.kindle.images?session_id=a350e1bbeeee07d33738eaffddc363340afd1972" type="application/x-mobipocket-ebook" class="link" title="Download">Kindle (mit Bildern)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/98.kindle.images?session_id=a350e1bbeeee07d33738eaffddc363340afd1972</td>
 <td class="right" property="dcterms:extent" content="5797876">5.5Â MB</td>
 <td class="noprint">
 <a href="/ebooks/send/dropbox/98.kindle.images" title="An Dropbox senden." rel="nofollow"><span class="icon icon_dropbox"></span></a>
@@ -360,10 +360,10 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 <td class="noprint">
 <a href="/ebooks/send/msdrive/98.kindle.images" title="An OneDrive senden." rel="nofollow"><span class="icon icon_msdrive"></span></a>
 </td>
-</tr><tr class="odd" about="//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=f273812bd6e9763974d050f844cf773bb90b8908" typeof="pgterms:file">
+</tr><tr class="odd" about="//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=a350e1bbeeee07d33738eaffddc363340afd1972" typeof="pgterms:file">
 <td><span class="icon icon_book"></span></td>
-<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=f273812bd6e9763974d050f844cf773bb90b8908" type="application/x-mobipocket-ebook" class="link" title="Download">Kindle (ohne Bilder)</a></td>
-<td class="noscreen">//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=f273812bd6e9763974d050f844cf773bb90b8908</td>
+<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=a350e1bbeeee07d33738eaffddc363340afd1972" type="application/x-mobipocket-ebook" class="link" title="Download">Kindle (ohne Bilder)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=a350e1bbeeee07d33738eaffddc363340afd1972</td>
 <td class="right" property="dcterms:extent" content="2622113">2.5Â MB</td>
 <td class="noprint">
 <a href="/ebooks/send/dropbox/98.kindle.noimages" title="An Dropbox senden." rel="nofollow"><span class="icon icon_dropbox"></span></a>
@@ -408,20 +408,20 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 </div>
 <div id="fb-root"></div>
 <div id="print-head" class="noscreen">
-<div class="center">http://www.gutenberg.org/ebooks/98<br /><br />Das Projekt Gutenberg bietet 48.188 freie Ebooks zum Download an. </div>
+<div class="center">http://www.gutenberg.org/ebooks/98<br /><br />Das Projekt Gutenberg bietet 48.210 freie Ebooks zum Download an. </div>
 </div>
 <div id="screen-head" class="noprint">
 <table>
 <tr>
 <td rowspan="2" id="logo">
 <a href="/wiki/Main_Page" title="Gehe zur Hauptseite.">
-<span id="id9572" class="icon icon_logo"></span>
+<span id="id2222" class="icon icon_logo"></span>
 </a>
 </td>
 <td id="tagline-badges" colspan="2">
 <table>
 <tr>
-<td id="tagline">Das Projekt Gutenberg bietet 48.188 freie Ebooks zum Download an. </td>
+<td id="tagline">Das Projekt Gutenberg bietet 48.210 freie Ebooks zum Download an. </td>
 <td id="fb-badge" class="badge">
 <a title="Projekt Gutenberg auf Facebook" href="https://www.facebook.com/project.gutenberg"><span class="icon icon_facebook"></span></a>
 </td>

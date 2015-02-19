@@ -1,18 +1,18 @@
-Date: Tue, 17 Feb 2015 14:55:35 GMT
+Date: Thu, 19 Feb 2015 01:33:59 GMT
 Server: Server
 pragma: no-cache
-x-amz-id-1: 1NX8QA568Q7NZ2GVZ8Q3
+x-amz-id-1: 0R42G6NN6V749A5NBQQ1
 p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 x-sap-pg: book_display_on_website
 cache-control: no-cache
 x-frame-options: SAMEORIGIN
 expires: -1
-x-amz-id-2: GLXmHODuwWss6ZJvo8SeXJLMW62menDOFhUm15ZV+Xv7vp3ESA+fHtQ0Fux4eZyE
+x-amz-id-2: mfDkI7Z+ayhNVqSQhVf3rnNMsCDnm2RxFcvPLaFq3erGii6buJuGEqjlb0qavAQC
 x-ua-compatible: IE=edge
 Vary: Accept-Encoding,User-Agent
 Content-Type: text/html; charset=UTF-8
-Set-cookie: x-wl-uid=1XVf5GoYrwXj8V/Et2gk/fT7Aky3c/A4tg7QAlV6zembWGVde+zWF8CH9SnG2EHvdrNA4IBrLq/A=; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: x-wl-uid=1rnee85mUDQAHOAPaNa+tEUqGlTuiXynADA3XVMR77djyaheCP8j+c5+kny9D71jodZtzr9QXG8w=; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
 Set-cookie: session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
-Set-cookie: session-id=176-8343048-6646941; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id=183-7934966-7747229; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
 Transfer-Encoding: chunked
 
