@@ -1,6 +1,7 @@
 __author__ = 'andrew'
 import urllib.request
 import time
+import socket
 
 class HTMLGetter():
 
@@ -44,7 +45,7 @@ class HTMLGetter():
             import sys; ty, err, tb = sys.exc_info()
             print("Socket Error.")
             time.sleep(3)
-            return self.getHTMLFromURL2(url)
+            return "socket error for URL"
 
     def getHeader(self):
             return str(self.header)

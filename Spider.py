@@ -47,7 +47,6 @@ class Spider():
         terms = self.convertListToDictionary(lowercaseTokenList)
 
         lowercaseTokenString = '\n'.join(lowercaseTokenList)
-        print(lowercaseTokenString)
         #Create all text files.
         databaseWrapper = Database.Wrapper()
 
