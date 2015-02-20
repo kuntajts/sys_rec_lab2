@@ -70,7 +70,7 @@ var dialog_message  = "";
 </li>
 <li class="breadcrumb next" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
 <span class="breadcrumb-separator"></span>
-<a href="/ebooks/" title="Starte eine neue Suche." itemprop="url"><span itemprop="title">48.211 freie Ebooks</span></a>
+<a href="/ebooks/" title="Starte eine neue Suche." itemprop="url"><span itemprop="title">48.219 freie Ebooks</span></a>
 </li>
 <li class="breadcrumb next" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
 <span class="breadcrumb-separator"></span>
@@ -243,7 +243,7 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 </tr>
 <tr>
 <th>Downloads</th>
-<td itemprop="interactionCount">16244 Downloads in den letzten 30 Tagen.</td>
+<td itemprop="interactionCount">16247 Downloads in den letzten 30 Tagen.</td>
 </tr>
 <tr itemprop="offers" itemscope="itemscope" itemtype="http://schema.org/Offer">
 <th>Preis</th>
@@ -318,10 +318,10 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 <td class="noprint">
 <a href="/ebooks/send/megaupload/98.html" title="Send to MegaUpload." rel="nofollow"></a>
 </td>
-</tr><tr class="even" about="//www.gutenberg.org/ebooks/98.epub.images?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4" typeof="pgterms:file">
+</tr><tr class="even" about="//www.gutenberg.org/ebooks/98.epub.images?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54" typeof="pgterms:file">
 <td><span class="icon icon_book"></span></td>
-<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.epub.images?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4" type="application/epub+zip" class="link" title="Download">EPUB (mit Bildern)</a></td>
-<td class="noscreen">//www.gutenberg.org/ebooks/98.epub.images?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4</td>
+<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.epub.images?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54" type="application/epub+zip" class="link" title="Download">EPUB (mit Bildern)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/98.epub.images?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54</td>
 <td class="right" property="dcterms:extent" content="2244516">2.1Â MB</td>
 <td class="noprint">
 <a href="/ebooks/send/dropbox/98.epub.images" title="An Dropbox senden." rel="nofollow"><span class="icon icon_dropbox"></span></a>
@@ -332,10 +332,10 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 <td class="noprint">
 <a href="/ebooks/send/msdrive/98.epub.images" title="An OneDrive senden." rel="nofollow"><span class="icon icon_msdrive"></span></a>
 </td>
-</tr><tr class="odd" about="//www.gutenberg.org/ebooks/98.epub.noimages?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4" typeof="pgterms:file">
+</tr><tr class="odd" about="//www.gutenberg.org/ebooks/98.epub.noimages?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54" typeof="pgterms:file">
 <td><span class="icon icon_book"></span></td>
-<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.epub.noimages?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4" type="application/epub+zip" class="link" title="Download">EPUB (ohne Bilder)</a></td>
-<td class="noscreen">//www.gutenberg.org/ebooks/98.epub.noimages?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4</td>
+<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.epub.noimages?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54" type="application/epub+zip" class="link" title="Download">EPUB (ohne Bilder)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/98.epub.noimages?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54</td>
 <td class="right" property="dcterms:extent" content="651513">636Â kB</td>
 <td class="noprint">
 <a href="/ebooks/send/dropbox/98.epub.noimages" title="An Dropbox senden." rel="nofollow"><span class="icon icon_dropbox"></span></a>
@@ -346,10 +346,10 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 <td class="noprint">
 <a href="/ebooks/send/msdrive/98.epub.noimages" title="An OneDrive senden." rel="nofollow"><span class="icon icon_msdrive"></span></a>
 </td>
-</tr><tr class="even" about="//www.gutenberg.org/ebooks/98.kindle.images?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4" typeof="pgterms:file">
+</tr><tr class="even" about="//www.gutenberg.org/ebooks/98.kindle.images?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54" typeof="pgterms:file">
 <td><span class="icon icon_book"></span></td>
-<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.kindle.images?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4" type="application/x-mobipocket-ebook" class="link" title="Download">Kindle (mit Bildern)</a></td>
-<td class="noscreen">//www.gutenberg.org/ebooks/98.kindle.images?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4</td>
+<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.kindle.images?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54" type="application/x-mobipocket-ebook" class="link" title="Download">Kindle (mit Bildern)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/98.kindle.images?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54</td>
 <td class="right" property="dcterms:extent" content="5797876">5.5Â MB</td>
 <td class="noprint">
 <a href="/ebooks/send/dropbox/98.kindle.images" title="An Dropbox senden." rel="nofollow"><span class="icon icon_dropbox"></span></a>
@@ -360,10 +360,10 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 <td class="noprint">
 <a href="/ebooks/send/msdrive/98.kindle.images" title="An OneDrive senden." rel="nofollow"><span class="icon icon_msdrive"></span></a>
 </td>
-</tr><tr class="odd" about="//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4" typeof="pgterms:file">
+</tr><tr class="odd" about="//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54" typeof="pgterms:file">
 <td><span class="icon icon_book"></span></td>
-<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4" type="application/x-mobipocket-ebook" class="link" title="Download">Kindle (ohne Bilder)</a></td>
-<td class="noscreen">//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=f4f56165a7d9ac521397c7f5aecf4687d73902d4</td>
+<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54" type="application/x-mobipocket-ebook" class="link" title="Download">Kindle (ohne Bilder)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/98.kindle.noimages?session_id=b5388b3bf93278bc9ef68ac02e94b9b99a40ce54</td>
 <td class="right" property="dcterms:extent" content="2622113">2.5Â MB</td>
 <td class="noprint">
 <a href="/ebooks/send/dropbox/98.kindle.noimages" title="An Dropbox senden." rel="nofollow"><span class="icon icon_dropbox"></span></a>
@@ -408,20 +408,20 @@ Paris (France) -- History -- 1789-1799 -- Fiction
 </div>
 <div id="fb-root"></div>
 <div id="print-head" class="noscreen">
-<div class="center">http://www.gutenberg.org/ebooks/98<br /><br />Das Projekt Gutenberg bietet 48.211 freie Ebooks zum Download an. </div>
+<div class="center">http://www.gutenberg.org/ebooks/98<br /><br />Das Projekt Gutenberg bietet 48.219 freie Ebooks zum Download an. </div>
 </div>
 <div id="screen-head" class="noprint">
 <table>
 <tr>
 <td rowspan="2" id="logo">
 <a href="/wiki/Main_Page" title="Gehe zur Hauptseite.">
-<span id="id4807" class="icon icon_logo"></span>
+<span id="id9534" class="icon icon_logo"></span>
 </a>
 </td>
 <td id="tagline-badges" colspan="2">
 <table>
 <tr>
-<td id="tagline">Das Projekt Gutenberg bietet 48.211 freie Ebooks zum Download an. </td>
+<td id="tagline">Das Projekt Gutenberg bietet 48.219 freie Ebooks zum Download an. </td>
 <td id="fb-badge" class="badge">
 <a title="Projekt Gutenberg auf Facebook" href="https://www.facebook.com/project.gutenberg"><span class="icon icon_facebook"></span></a>
 </td>

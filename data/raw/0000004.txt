@@ -2,7 +2,7 @@
 <!--[if IE]><![endif]--><!--Empty IE conditional comment to improve site performance-->
 <html lang="en">
   <head>
-    <!-- 15 -->
+    <!-- 16 -->
         <script src="//img.sparknotes.com/js/redirection_mobile.min.js"></script> 
     <script>
        SA.redirection_mobile ({
@@ -921,8 +921,8 @@ Jerry Cruncher= Jesus Christ</p>
     	<p class="left">
     		<a class="text-color border-0" href="/lit/twocities/notes/185"><span class="commentIcon"></span>10 Comments</a></p>
     	<p class="right">
-    				<strong>73</strong> out of 
-	<strong>292</strong> people found this helpful
+    				<strong>74</strong> out of 
+	<strong>293</strong> people found this helpful
     	</p>
     	
     </div>
@@ -984,17 +984,17 @@ Jerry Cruncher= Jesus Christ</p>
 	 
 	    
 	    	    <div class="clearfix media sidebar-media ">
-	 		<a href="http://community.sparknotes.com/2015/02/16/attn-famous-people-weve-got-even-moar-gorgeous-gowns-for-you-to-wear-to-the-2015-oscars"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/oscars0217study.jpg	" /></a>      
+	 		<a href="http://community.sparknotes.com/2015/02/19/if-fictional-characters-could-text"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/testfictstudy.jpg	" /></a>      
 	        	<div class="media-text">
-	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/16/attn-famous-people-weve-got-even-moar-gorgeous-gowns-for-you-to-wear-to-the-2015-oscars">What is JLaw going to wear on Sunday for the OSCARS?!</a></h4>
+	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/19/if-fictional-characters-could-text">If your fav character could text, here's what they'd say</a></h4>
 	    		</div>    
 	        	    </div>	
 	 
 	    
 	    	    <div class="clearfix media sidebar-media ">
-	 		<a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/benbarnesstudy.jpg	" /></a>      
+	 		<a href="http://community.sparknotes.com/2015/02/16/attn-famous-people-weve-got-even-moar-gorgeous-gowns-for-you-to-wear-to-the-2015-oscars"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/oscars0217study.jpg	" /></a>      
 	        	<div class="media-text">
-	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges">Ben Barnes on playing young Sirius Black... (holds breath)</a></h4>
+	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/16/attn-famous-people-weve-got-even-moar-gorgeous-gowns-for-you-to-wear-to-the-2015-oscars">What is JLaw going to wear on Sunday for the OSCARS?!</a></h4>
 	    		</div>    
 	        	    </div>	
 	 
@@ -1008,9 +1008,17 @@ Jerry Cruncher= Jesus Christ</p>
 	 
 	    
 	    	    <div class="clearfix media sidebar-media ">
-	 		<a href="http://community.sparknotes.com/2015/02/13/whats-j-k-rowling-sad-about-grammy-pics-celeb-birthdays"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/twitterss0213study.jpg	" /></a>      
+	 		<a href="http://community.sparknotes.com/2015/02/18/are-you-a-hobbit"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/hobbit1study.jpg	" /></a>      
 	        	<div class="media-text">
-	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/13/whats-j-k-rowling-sad-about-grammy-pics-celeb-birthdays">This is the WEIRDEST Twitter recap EVER</a></h4>
+	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/18/are-you-a-hobbit">Are you a hobbit? Yes, no, or POTATOES?</a></h4>
+	    		</div>    
+	        	    </div>	
+	 
+	    
+	    	    <div class="clearfix media sidebar-media ">
+	 		<a href="http://community.sparknotes.com/2015/02/19/lesser-known-traits-of-the-chinese-zodiac"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/chinzodstudy.jpg	" /></a>      
+	        	<div class="media-text">
+	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/19/lesser-known-traits-of-the-chinese-zodiac">What your Chinese zodiac year says about your weird habits</a></h4>
 	    		</div>    
 	        	    </div>	
 	 
@@ -1021,14 +1029,6 @@ Jerry Cruncher= Jesus Christ</p>
 	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/12/ya-valentines-for-our-favorite-paper-people">We have YA-themed Valentine's for the biggest book nerds O.A.T.</a></h4>
 	    		</div>    
 	        	    </div>	
-	 
-	    
-	    	    <div class="clearfix media sidebar-media ">
-	 		<a href="http://community.sparknotes.com/2015/02/12/what-its-like-to-date-an-invisible-boyfriend-for-a-week"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/invisboystudy.jpg	" /></a>      
-	        	<div class="media-text">
-	        	    <h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/12/what-its-like-to-date-an-invisible-boyfriend-for-a-week">What's it like to date an Invisible Boyfriend? Emma finds out</a></h4>
-	    		</div>    
-	        	    </div>	
 		
 			     
 	    <h3 class="geekOut border-top-blue"><a href="http://www.sparknotes.com/mindhut" class="hide-text">The MindHut</a></h3>
@@ -1036,17 +1036,17 @@ Jerry Cruncher= Jesus Christ</p>
 		  
 		    
 		    		    <div class="clearfix media sidebar-media mindhut">
-		    	<a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/grosssodaz0_Slidemhthumbcar.jpg" /></a>               
+		    	<a href="http://www.sparknotes.com/mindhut/2015/02/19/how-to-tell-the-hollywood-nerds-from-the-hollywood-geeks"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/hwoodgkshwdnrrrdsthumb.jpg" /></a>               
 		        <div class="media-text">	            
-		            <h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition">The Sparkitors review GROSS SODAS</a></h4>
+		            <h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/19/how-to-tell-the-hollywood-nerds-from-the-hollywood-geeks">How to tell a Hollywood Geek from a Hollywood Nerd</a></h4>
 		        </div>    
 		        		    </div>  
 		  
 		    
 		    		    <div class="clearfix media sidebar-media mindhut">
-		    	<a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/lyriczzznewthumbnewlyrcsz.jpg" /></a>               
+		    	<a href="http://www.sparknotes.com/mindhut/2015/02/18/we-got-a-sneak-peak-of-harry-potter-vinyl-pops-at-the-toy-fair"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/hpvinylpops2015tfairthmb.jpg" /></a>               
 		        <div class="media-text">	            
-		            <h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science">Pop lyrics explained by SCIENCE!</a></h4>
+		            <h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/18/we-got-a-sneak-peak-of-harry-potter-vinyl-pops-at-the-toy-fair">EXCLUSIVE preview of the Harry Potter Vinyl Pops</a></h4>
 		        </div>    
 		        		    </div>  
 		  
@@ -1060,9 +1060,9 @@ Jerry Cruncher= Jesus Christ</p>
 		  
 		    
 		    		    <div class="clearfix media sidebar-media mindhut">
-		    	<a href="http://www.sparknotes.com/mindhut/2015/02/11/the-geekiest-bedding-for-your-bedroom"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/frozenupyerbedroumthumb.jpg" /></a>               
+		    	<a href="http://www.sparknotes.com/mindhut/2015/02/18/we-came-we-saw-we-played-with-toys-at-the-2015-international-toy-fair"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/toynotfairitsfairthumb.jpg" /></a>               
 		        <div class="media-text">	            
-		            <h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/11/the-geekiest-bedding-for-your-bedroom">How to FROZEN-up your bedroom</a></h4>
+		            <h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/18/we-came-we-saw-we-played-with-toys-at-the-2015-international-toy-fair">We played with ALL THE TOYS at this year's Toy Fair!</a></h4>
 		        </div>    
 		        		    </div>  
 		  
@@ -1097,6 +1097,16 @@ Jerry Cruncher= Jesus Christ</p>
 			<div class="media-text">
 				<h4 class="semi-bold">
 					<a href="http://bit.ly/1L7ughg">The YA Loverâs Foolproof Guide to Landing a Date</a>				</h4>
+			</div>    
+		</div>
+
+			<div class="clearfix media sidebar-media">
+			<a href="">
+				<a class="fixed-media" href="http://bit.ly/1EXOqbf"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_genrequiz_LargeWide.jpg" /></a>	
+			</a> 
+			<div class="media-text">
+				<h4 class="semi-bold">
+					<a href="http://bit.ly/1EXOqbf">What Genre Are You Living In?</a>				</h4>
 			</div>    
 		</div>
 

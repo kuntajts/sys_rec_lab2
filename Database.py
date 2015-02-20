@@ -54,11 +54,11 @@ class WebDB(object):
         text = re.sub("''", "'", text)
         return text
 
+
     def execute(self, sql):
         """
         Execute an arbitrary SQL command on the underlying database.
         """
-        print(sql)
         res = self.cur.execute(sql)
         self.cxn.commit()
 
@@ -188,6 +188,28 @@ class WebDB(object):
         res = self.execute(sql)
         return self.cur.lastrowid
 
+    def getInfoByID(self, urlID):
+        """
+        :param itemID:
+        :return tuple(urlTitle, URL, itemType:
+        """
+
+        sql = "SELECT url, title, docType FROM CachedURL WHERE id='%s'" % (urlID)
+        res = self.execute(sql)
+        reslist = res.fetchall()
+        return reslist
+
+    def getItemByID(self, itemID):
+        """
+        :param itemID:
+        :return tuple(itemTitle, itemType:
+        """
+
+        sql = "SELECT * FROM Item"
+        res = self.execute(sql)
+        reslist = res.fetchall()
+        return reslist
+
     def insertURLToItem(self, urlID, itemID):
         """
         Inserts a item into the URLToItem table, returning the id of the
@@ -206,6 +228,18 @@ class WebDB(object):
         res = self.execute(sql)
         return self.cur.lastrowid
 
+    def getIDFromURL(self, theURL):
+        """
+        :param theURL:
+        :return tuple(urlTitle, URL, itemType:
+        """
+
+        sql = "SELECT id FROM CachedURL WHERE id='%s'" % (theURL)
+        res = self.execute(sql)
+        reslist = res.fetchall()
+        return reslist
+
+
 class Wrapper(object):
 
     def __init__(self):
@@ -217,6 +251,8 @@ class Wrapper(object):
             os.path.mkdir("data/header/")
         if not os.path.exists("data/raw/"):
             os.path.mkdir("data/raw/")
+        if not os.path.exists("data/cache"):
+            os.path.mkdir("data/cache")
 
     def createCleanFile(self, input, id):
         filename = self.getFileNameFromID(id)

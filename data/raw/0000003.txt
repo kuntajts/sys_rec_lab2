@@ -61,10 +61,10 @@
 <!-- navigation -->
 <div id="nav">
 <strong>By This Author</strong>:<br>
-<a title="A Christmas Carol" href="/authors/dickens-charles/christmas-carol/">A Christmas ...</a><br>
+<a href="/authors/dickens-charles/christmas-carol/" title="A Christmas Carol">A Christmas ...</a><br>
 <a href="/authors/dickens-charles/great-expectations/" title="Great Expectations">Great Expect...</a><br>
-<a href="/authors/dickens-charles/two-cities/" title="Tale of Two Cities">Tale of Two ...</a><br>
-<a title="The Chimes" href="/authors/dickens-charles/chimes/">The Chimes</a><br>
+<a title="Tale of Two Cities" href="/authors/dickens-charles/two-cities/">Tale of Two ...</a><br>
+<a href="/authors/dickens-charles/chimes/" title="The Chimes">The Chimes</a><br>
 <a title="The Cricket on the Hearth" href="/authors/dickens-charles/cricket/">The Cricket ...</a><br>
 
 <p>

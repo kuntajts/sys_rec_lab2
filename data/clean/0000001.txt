@@ -11,7 +11,7 @@ freies
 ebook
 projekt
 gutenberg
-48.211
+48.219
 freie
 ebooks
 181
@@ -127,7 +127,7 @@ den
 usa
 .
 downloads
-16244
+16247
 downloads
 in
 den
@@ -190,7 +190,7 @@ das
 projekt
 gutenberg
 bietet
-48.211
+48.219
 freie
 ebooks
 zum

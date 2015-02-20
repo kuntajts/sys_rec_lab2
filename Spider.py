@@ -23,7 +23,7 @@ class Spider():
         self.database = Database.WebDB("data/cache/database.db")
 
 
-    def fetch(self, url, doctype):
+    def fetch(self, url, doctype, item):
         # check if entry already exists
         id = self.database.lookupCachedURL_byURL(url)
         if id is not None:
@@ -39,6 +39,9 @@ class Spider():
         htmlPageString = str(html)
 
         id = self.database.insertCachedURL(url, doctype, title)
+        itemID = self.database.insertItem(item,doctype)
+        self.database.insertURLToItem(id, itemID)
+
 
         #Finish tokenization
         self.soupMachine.removeJunk()
@@ -53,6 +56,8 @@ class Spider():
         databaseWrapper.createCleanFile(lowercaseTokenString, id)
         databaseWrapper.createRawFile(htmlPageString, id)
         databaseWrapper.createHeaderFile(header, id)
+
+
         return id
 
     def removeComments(self, string):
