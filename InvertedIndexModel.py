@@ -1,40 +1,39 @@
 __author__ = 'andrew'
+import os, os.path
 from collections import defaultdict
+import pprint
 
 class InvertedIndexModel:
 
     # new basic dictionary
-    #invertedIndex = defaultdict(defaultdict())
-
-    def __init__(self, docID):
-        self.invertedIndex = defaultdict(lambda : defaultdict())
-        self.docID = docID
+    def __init__(self):
+        self.invertedIndex = defaultdict()
         self.populateInvertedIndex()
+        self.printInvertedIndex()
 
 
     def populateInvertedIndex(self):
-        tokenList = self.getTokensFromCleanFile()
+        DIR = 'data/clean'
+        length = len([name for name in os.listdir(DIR) if os.path.isfile(os.path.join(DIR, name))])
 
-    def getTokensFromCleanFile(self):
-        fileName = self.getFileName()
-        fo = open(("data/clean/" + fileName), "r")
+        for x in range(1, length):
+            zeroLen = 7 - len(str(x))
+            zeroString = ''
+            for num in range(0, zeroLen):
+                zeroString += "0"
+            file = open("data/clean/" + zeroString + str(x) + ".txt")
+            i = 0
+            for token in file:
+                token = token.rstrip('\n')
+                if self.invertedIndex.get(token, None) is not None:
+                    self.invertedIndex[token][zeroString + str(x)].append(i)
+                else:
+                    self.invertedIndex[token] = defaultdict(list)
+                    self.invertedIndex[token][zeroString + str(x)].append(i)
+                i=i+1
+            file.close()
 
-        term = fo.readline()
-        i = 0
-        for term in fo:
-            if term not in self.invertedIndex:
-                self.invertedIndex[term] = defaultdict(list)
-            if self.docID not in self.invertedIndex[term]:
-                self.invertedIndex[term][self.docID].append(i)
-            i = i+1
 
-        fo.close()
-
-    def getFileName(self):
-        filename = str(self.docID)
-        nameLength = len(filename)
-        for i in range(abs(nameLength - 7)):
-            filename = "0" + filename
-
-        return filename + ".txt"
+    def printInvertedIndex(self):
+        print(self.invertedIndex)
 

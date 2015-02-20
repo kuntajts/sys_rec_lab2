@@ -2,7 +2,7 @@
 <!--[if IE]><![endif]--><!--Empty IE conditional comment to improve site performance-->
 <html lang="en">
   <head>
-    <!-- 11 -->
+    <!-- 15 -->
         <script src="//img.sparknotes.com/js/redirection_mobile.min.js"></script> 
     <script>
        SA.redirection_mobile ({
