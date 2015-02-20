@@ -23,20 +23,21 @@ def buildDataSet():
         songList.append(song.rstrip())
 
     spider = Spider.Spider()
-    for item in bookList:
-        urls = search(item + " book", 'com', 'en', '0', 'off', 1, 0, 11, random.uniform(10.0, 60.0), True, {}, '')
-        for url in urls:
-            if(type(url) is str):
-                print(spider.fetch(url, "book", item))
+  #  for item in bookList:
+  #      urls = search(item + " book", 'com', 'en', '0', 'off', 1, 0, 11, random.uniform(10.0, 60.0), True, {}, '')
+  #      for url in urls:
+  #          if(type(url) is str):
+  #              print(spider.fetch(url, "book", item))
 
     for item in movieList:
-        for url in search(item + " movie", 'com', 'en', '0', 'off', 1, 0, 11, random.uniform(10.0, 60.0), True, {}, ''):
-            if(type(url) is str):
+        for url in search(item + " movie", 'com', 'en', '0', 'off', 1, 0, 11, random.uniform(10.0, 20.0), True, {}, ''):
+            if type(url) is str:
                 print(spider.fetch(url, "movie", item))
 
+
     for item in songList:
-        for url in search(item + " song", 'com', 'en', '0', 'off', 1, 0, 11, random.uniform(10.0, 60.0), True, {}, ''):
-            if(type(url) is str):
+        for url in search(item + " song", 'com', 'en', '0', 'off', 1, 0, 11, random.uniform(10.0, 20.0), True, {}, ''):
+            if type(url) is str:
                 print(spider.fetch(url, "song", item))
 
     books.close()

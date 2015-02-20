@@ -39,7 +39,7 @@ class Spider():
         htmlPageString = str(html)
 
         id = self.database.insertCachedURL(url, doctype, title)
-        itemID = self.database.insertItem(item,doctype)
+        itemID = self.database.insertItem(item, doctype)
         self.database.insertURLToItem(id, itemID)
 
 

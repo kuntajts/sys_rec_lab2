@@ -26,20 +26,23 @@ class InvertedIndexModel:
                 zeroString += "0"
 
             # open file
-            file = open("data/clean/" + zeroString + str(x) + ".txt")
-
+            try:
+                file = open("data/clean/" + zeroString + str(x) + ".txt")
+            except IOError:
+                print("IOError")
             # create positional index
-            i = 0
-            for token in file:
-                token = token.rstrip('\n')
-                if self.invertedIndex.get(token, None) is not None:
-                    self.invertedIndex[token][str(x)].append(i)
-                else:
-                    self.invertedIndex[token] = defaultdict(list)
-                    self.invertedIndex[token][str(x)].append(i)
-                i=i+1
-            #close file
-            file.close()
+            with file:
+                i = 0
+                for token in file:
+                    token = token.rstrip('\n')
+                    if self.invertedIndex.get(token, None) is not None:
+                        self.invertedIndex[token][str(x)].append(i)
+                    else:
+                        self.invertedIndex[token] = defaultdict(list)
+                        self.invertedIndex[token][str(x)].append(i)
+                    i=i+1
+                #close file
+                file.close()
 
 
     def printInvertedIndex(self):
