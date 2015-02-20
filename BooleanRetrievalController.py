@@ -3,6 +3,7 @@ __author__ = 'andrew'
 import InvertedIndexModel
 import Database
 import math
+from collections import defaultdict
 
 class BooleanRetrievalController:
 
@@ -30,16 +31,27 @@ class BooleanRetrievalController:
     def singleTokenQuery(self):
         query = input("Please enter a single word: ")
         i = 1
+        finalResult = defaultdict(int)
         for key in self.invertedIndex.invertedIndex[query]:
             result = self.database.getInfoByID(key)
             url = result[0][0]
             title = result[0][1]
             type = result[0][2]
-
             name = self.database.getItemByID(key)
-            print(name)
+
+            finalResult[name] += 1
             print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ": " + name + "\n")
             i += 1
+
+        print("total: " + str(i-1))
+        highestValue = 0
+        highestKey = ''
+        for item in finalResult:
+            if finalResult[item] > highestValue:
+                highestValue = finalResult[item]
+                highestKey = item
+
+        print(highestKey + " ("+str(highestValue)+")")
 
     def andQuery(self):
         query1 = input("Please enter first word: ")
@@ -48,14 +60,26 @@ class BooleanRetrievalController:
         list1 = self.invertedIndex.invertedIndex[query1]
         list2 = self.invertedIndex.invertedIndex[query2]
         list3 = set(list1) & set(list2)
+        finalResult = defaultdict(int)
         for key in list3:
             result = self.database.getInfoByID(key)
             url = result[0][0]
             title = result[0][1]
             type = result[0][2]
             name = self.database.getItemByID(key)
+
+            finalResult[name] += 1
             print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ": " + name + "\n")
             i += 1
+        print("total: " + str(i-1))
+        highestValue = 0
+        highestKey = ''
+        for item in finalResult:
+            if finalResult[item] > highestValue:
+                highestValue = finalResult[item]
+                highestKey = item
+
+        print(highestKey + " ("+str(highestValue)+")")
 
     def orQuery(self):
         query1 = input("Please enter first word: ")
@@ -64,14 +88,28 @@ class BooleanRetrievalController:
         list1 = self.invertedIndex.invertedIndex[query1]
         list2 = self.invertedIndex.invertedIndex[query2]
         list3 = set(list1) | set(list2)
+        finalResult = defaultdict(int)
+
         for key in list3:
             result = self.database.getInfoByID(key)
             url = result[0][0]
             title = result[0][1]
             type = result[0][2]
             name = self.database.getItemByID(key)
+
+            finalResult[name] += 1
             print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ": " + name + "\n")
             i += 1
+
+        print("total: " + str(i-1))
+        highestValue = 0
+        highestKey = ''
+        for item in finalResult:
+            if finalResult[item] > highestValue:
+                highestValue = finalResult[item]
+                highestKey = item
+
+        print(highestKey + " ("+str(highestValue)+")")
 
     def phraseQuery(self):
         query1 = input("Please enter first word: ")
@@ -80,7 +118,7 @@ class BooleanRetrievalController:
         dict1 = self.invertedIndex.invertedIndex[query1]
         dict2 = self.invertedIndex.invertedIndex[query2]
         list3 = list(set(dict1) & set(dict2))
-
+        finalResult = defaultdict(int)
         i = 1
         for item in list3:
             for dict1Elements in dict1[item]:
@@ -91,8 +129,20 @@ class BooleanRetrievalController:
                         title = result[0][1]
                         type = result[0][2]
                         name = self.database.getItemByID(item)
+                        finalResult[name] += 1
                         print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ": " + name + "\n")
                         i = i+1
+
+        print("total: " + str(i-1))
+        highestValue = 0
+        highestKey = ''
+        for item in finalResult:
+            if finalResult[item] > highestValue:
+                highestValue = finalResult[item]
+                highestKey = item
+
+        print(highestKey + " ("+str(highestValue)+")")
+
 
 
     def nearQuery(self):
@@ -102,7 +152,7 @@ class BooleanRetrievalController:
         dict1 = self.invertedIndex.invertedIndex[query1]
         dict2 = self.invertedIndex.invertedIndex[query2]
         list3 = list(set(dict1) & set(dict2))
-
+        finalResult = defaultdict(int)
         i = 1
         for item in list3:
             for dict1Elements in dict1[item]:
@@ -114,5 +164,16 @@ class BooleanRetrievalController:
                         title = result[0][1]
                         type = result[0][2]
                         name = self.database.getItemByID(item)
+                        finalResult[name] += 1
                         print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ": " + name + "\n")
                         i = i+1
+
+        print("total: " + str(i-1))
+        highestValue = 0
+        highestKey = ''
+        for item in finalResult:
+            if finalResult[item] > highestValue:
+                highestValue = finalResult[item]
+                highestKey = item
+
+        print(highestKey + " ("+str(highestValue)+")")

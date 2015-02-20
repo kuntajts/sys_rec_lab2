@@ -29,10 +29,10 @@ def buildDataSet():
   #          if(type(url) is str):
   #              print(spider.fetch(url, "book", item))
 
-    for item in movieList:
-        for url in search(item + " movie", 'com', 'en', '0', 'off', 1, 0, 11, random.uniform(10.0, 20.0), True, {}, ''):
-            if type(url) is str:
-                print(spider.fetch(url, "movie", item))
+   # for item in movieList:
+   #     for url in search(item + " movie", 'com', 'en', '0', 'off', 1, 0, 11, random.uniform(10.0, 20.0), True, {}, ''):
+   #         if type(url) is str:
+   #             print(spider.fetch(url, "movie", item))
 
 
     for item in songList:
