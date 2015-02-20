@@ -99,6 +99,7 @@ class WebDB(object):
         else:
             return reslist[0]
 
+
     def lookupItem(self, name, itemType):
         """
         Returns a Item ID for the row
@@ -198,16 +199,24 @@ class WebDB(object):
         reslist = res.fetchall()
         return reslist
 
-    def getItemByID(self, itemID):
+    def getItemByID(self, urlID):
         """
         :param itemID:
         :return tuple(itemTitle, itemType:
         """
-
-        sql = "SELECT * FROM Item"
+        sql = "SELECT itemID FROM URLToItem WHERE urlID=%s" % (urlID)
         res = self.execute(sql)
         reslist = res.fetchall()
-        return reslist
+        if reslist == []:
+            return None
+        else:
+            sql = "SELECT name FROM Item where id=%s" % reslist[0][0]
+            res = self.execute(sql)
+            reslist = res.fetchall()
+            if reslist == []:
+                return None
+            else:
+                return reslist[0][0]
 
     def insertURLToItem(self, urlID, itemID):
         """

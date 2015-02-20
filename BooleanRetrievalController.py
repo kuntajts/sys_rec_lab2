@@ -36,7 +36,9 @@ class BooleanRetrievalController:
             title = result[0][1]
             type = result[0][2]
 
-            print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ":" + "" + "\n")
+            name = self.database.getItemByID(key)
+            print(name)
+            print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ": " + name + "\n")
             i += 1
 
     def andQuery(self):
@@ -51,8 +53,8 @@ class BooleanRetrievalController:
             url = result[0][0]
             title = result[0][1]
             type = result[0][2]
-
-            print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ":" + "" + "\n")
+            name = self.database.getItemByID(key)
+            print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ": " + name + "\n")
             i += 1
 
     def orQuery(self):
@@ -67,8 +69,8 @@ class BooleanRetrievalController:
             url = result[0][0]
             title = result[0][1]
             type = result[0][2]
-
-            print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ":" + "" + "\n")
+            name = self.database.getItemByID(key)
+            print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ": " + name + "\n")
             i += 1
 
     def phraseQuery(self):
@@ -88,7 +90,8 @@ class BooleanRetrievalController:
                         url = result[0][0]
                         title = result[0][1]
                         type = result[0][2]
-                        print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ":" + "" + "\n")
+                        name = self.database.getItemByID(item)
+                        print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ": " + name + "\n")
                         i = i+1
 
 
@@ -110,5 +113,6 @@ class BooleanRetrievalController:
                         url = result[0][0]
                         title = result[0][1]
                         type = result[0][2]
-                        print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ":" + "" + "\n")
+                        name = self.database.getItemByID(item)
+                        print(str(i) + ".\t" + title + "\n\t" + url + "\n\t" + type + ": " + name + "\n")
                         i = i+1
