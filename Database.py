@@ -106,7 +106,10 @@ class WebDB(object):
         matching name and itemType in the Item table.
         If there is no match, returns an None.
         """
-        res = self.execute("SELECT id FROM Item WHERE name= \'?\' AND type=\'?\'", name, itemType)
+        print(name)
+        sql = "SELECT id FROM Item WHERE name='%s' AND type='%s'"\
+            % (self._quote(name), self._quote(itemType))
+        res = self.execute(sql)
         reslist = res.fetchall()
         if reslist == []:
             return None
@@ -181,11 +184,9 @@ class WebDB(object):
         if item_id is not None:
             return item_id
 
-        #sql = """INSERT INTO Item (name, type)
-        #        VALUES (\'%s\', \'%s\')""" % (self._quote(name), self._quote(itemType))
+        sql = """INSERT INTO Item (name, type) VALUES ('%s', '%s')""" % (self._quote(name), self._quote(itemType))
 
-        res = self.execute("""INSERT INTO Item (name, type)
-                 VALUES (\'?\', \'?\')""", self._quote(name), self._quote(itemType))
+        res = self.execute(sql)
         return self.cur.lastrowid
 
     def getInfoByID(self, urlID):
