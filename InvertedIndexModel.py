@@ -26,12 +26,10 @@ class InvertedIndexModel:
                 zeroString += "0"
 
             # open file
-            try:
-                file = open("data/clean/" + zeroString + str(x) + ".txt")
-            except IOError:
-                print("IOError")
-            # create positional index
-            with file:
+
+            if os.path.isfile("data/clean/" + zeroString + str(x) + ".txt"):
+                file = open("data/clean/" + zeroString + str(x) + ".txt", "r")
+                # create positional index
                 i = 0
                 for token in file:
                     token = token.rstrip('\n')

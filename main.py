@@ -55,4 +55,5 @@ def BR():
             break
         booleanRetrivalController.queryIngest(option)
 
-buildDataSet()
+#buildDataSet()
+BR()
